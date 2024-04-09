@@ -13,7 +13,7 @@ A chemical reaction can be regarded as a system, with everything else around it 
 - Closed systems exchange only energy with the surroundings.
 - Isolated systems exchange neither energy nor matter with the surroundings.
 
-![](../images/chemical-systems.png)
+![chemical-systems](../images/chemical-systems.png)
 
 ## Equilibria
 
@@ -97,7 +97,7 @@ A higher concentration means there are more particles moving about in a given vo
 
 The rate of reaction of the side which has greater number of particles will be higher.
 
-![](../images/collision-theory-increase-concentration.png)
+![collision-theory-increase-concentration](../images/collision-theory-increase-concentration.png)
 
 If the concentration of one reaction component increases, its rate of reaction will increase as there are more particles to collide with, thus increasing the frequency of effective collisions. The rate of that reaction will be relatively greater than that of the rate of the reverse reaction. This means that more products or reactants will being produced until equilibrium is reached.
 
@@ -107,7 +107,7 @@ The reduction in one of the reaction components will reduce its rate of reaction
 
 Changes in pressure and volume affect the collision rate between gaseous particles as they occupy the most volume. An increase in pressure (or reduction in volume) increases the rate of collision. The effect of increasing the rate of reaction differs if the number of particles differs between reactants and products (different moles). The side that has more moles of gas particles will have a greater effect.
 
-![](../images/collision-theory-pressure.png)
+![collision-theory-pressure](../images/collision-theory-pressure.png)
 
 A decrease in the volume of a chemical system involving gasses will result in gasses colliding more often. The gas particles will also be colliding with more energy as pressure is inversely proportional to volume. As particles are colliding more frequently and with more energy to overcome the activation energy barrier, the frequency of effective collision increases. Both the rate of the forward and reverse reaction will increase, however, the rate of reaction that uses the greatest number of moles will be relatively greater than the reverse reaction as there are more particles that can collide effectively with each other.
 
@@ -127,7 +127,7 @@ Catalysts reduce the activation energy of a reaction, resulting in an increased 
 
 It will not favour the reaction in any directions, however, the equilibrium will be achieved in a quicker amount of time.
 
-![](../images/catalyst.png)
+![catalyst](../images/catalyst.png)
 
 ### Le Chatelier's Principle
 
@@ -280,7 +280,7 @@ The positively charged hydrogen atoms of water molecules are attracted to the ne
 
 For the dissolution process to occur spontaneously, there must be a decrease in Gibbs free energy ($\Delta G$). This decrease in free energy arises from the favorable interactions between the solute ions and solvent molecules. Specifically, the formation of new ion-water bonds releases energy, overcoming the energy required to break the ionic bonds in the solid lattice. Consequently, the overall change in Gibbs free energy is negative, indicating that the system moves towards a more stable state. This decrease in free energy drives the dissolution process forward.
 
-![](../images/dissolution-of-ionic-compound.png)
+![dissolution-of-ionic-compound](../images/dissolution-of-ionic-compound.png)
 
 ### Solubility and Precipitation
 
@@ -323,9 +323,9 @@ Addition of an ionic compound that contains an ion present in the equilibrium sy
 
 Dissolving common ion to a saturated solution will reduce the solubility of the salt.
 
-![](../images/common-ion-effect.png)
+![common-ion-effect](../images/common-ion-effect.png)
 
-![](../images/common-ion-effect-diagram.png)
+![common-ion-effect-diagram](../images/common-ion-effect-diagram.png)
 
 We can assume the dissolved ions are entirely from a certain ionic compound when the other ionic compound has an extremely small $K_{sp}$.
 
