@@ -1,0 +1,601 @@
+# Acid and Base Theories
+
+## Lavoisier's Theory (Oxygen Theory)
+
+French chemist Antoine Lavoisier showed that many non-metal compounds containing oxygen produced acidic solutions when dissolved in water.
+
+$$\text{CO}_2(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{H}_2\text{CO}_3(\text{aq})$$
+
+Lavoisier hypothesised that **the presence of oxygen atoms in these compounds gave them their acidic properties**.
+
+**Limitation:**
+
+- Many experiments showed **acidic properties in substances which do not contain oxygen** e.g. HCl.
+
+## Devy's Theory (Hydrogen Theory)
+
+Davy electrolysed samples of hydrochloric acid and showed that it produced hydrogen gas and chlorine gas, but not oxygen gas. This experiment helped to disprove Lavoisier’s oxygen theory of acids.
+
+Later experiments by other chemists showed that other acids such as hydrocyanic acid (HCN), also contained no oxygen but did contain hydrogen.
+
+Davy proposed that **the presence of hydrogen in acids gave them their acidic properties**.
+
+**Limitation:**
+
+- Davy’s theory did not explain why many **compounds with hydrogen atoms were not acidic** e.g. methane.
+
+## Arrhenius' Theory
+
+Arrhenius acids are substances that **dissociate to produce hydrogen ion in water**.
+
+$$\text{HCl(aq)} \rightarrow \text{H}^+(\text{aq}) + \text{Cl}^-(\text{aq})$$
+
+Arrhenius bases are substances that **dissociate to produce hydroxide ion in water**.
+
+$$\text{NaOH(aq)} \rightarrow \text{Na}^+\text{(aq)} + \text{OH}^-\text{(aq)}$$
+
+Arrhenius’ theory explains neutralisation between acids and bases. He proposed that when neutralisation occurs, **the hydrogen ions (produced by acids), reacts with hydroxide ions (produced by bases), to form water**.
+
+$$\text{HCl(aq)} + \text{NaOH(aq)} \rightarrow \text{NaCl(aq)} + \text{H}_2\text{O(l)}$$
+
+**Limitation:**
+
+1. Arrhenius could not explain why certain compounds such as **metal oxides** and **metal carbonates**, **do not contain hydroxide ions**, despite **displaying basic properties**.
+
+$$2\text{HCl(aq)} + \text{CaCO}_3\text{(s)} \rightarrow \text{CaCl}_2\text{(aq)} + \text{H}_2\text{O}(l) + \text{CO}_2\text{(g)}$$
+
+2. Arrhenius could not explain why **some neutrally-charged salts are acidic in solution whilst others are basic**.
+
+3. Arrhenius could not explain acid-base reactions that **do not occur in aqueous solutions**.
+
+$$\text{NH}_3(\text{g}) + \text{HCl}(\text{g}) \rightleftharpoons \text{NH}_4\text{Cl}(\text{g})$$
+
+## Brønsted-Lowry Theory
+
+Brønsted-Lowry acids are **protons donors**, any compound that can donate protons regardless of its state of matter or the nature of the solvent.
+
+$$\text{HCl}(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightarrow \text{H}_3\text{O}^+(\text{aq}) + \text{Cl}^-(\text{aq})$$
+
+Brønsted-Lowry bases are **protons acceptors**, any compound that can accept protons regardless of its state of matter or nature of the solvent.
+
+$$\text{NH}_3(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{NH}_4^+(\text{aq}) + \text{OH}^-(\text{aq})$$
+
+**A proton is equivalent to a hydrogen ion** because when a hydrogen-1 atom loses an electron, **only a proton remains**.
+
+Brønsted-Lowry theory assigned a role to the solvent. In addition to being a solvent, the theory outlines the important ionising role of water.
+
+**Water can act has both an acid (proton donors) and a base (proton acceptors)**.
+
+According to the Brønsted-Lowry theory, an acid-base reaction occurs when there is **a transfer of proton(s)** from the acid to the base. This **can occur in non-aqueous states**.
+
+**Limitation:**
+
+- Brønsted-Lowry theory does not explain the **acidity of acidic oxides** and **basicity of basic oxides**, and the reactions between acidic and basic oxides as they do not involve proton transfer.
+	$$\text{SO}_3(\text{g}) + \text{CaO}(\text{s}) \rightarrow \text{CaSO}_4(\text{s})$$
+	
+	This limitations are explained in the **Lewis Theory** of acid and bases which states that **acids are electron pair acceptors**, and **bases are electron pair donors**
+
+# Qualitative Analysis of Acids and Bases
+
+Substance can either be organic or inorganic:
+1. Inorganic, being derived from a non-living material.
+2. Organic, being carbon-based and are derived from once living matter.
+
+Acids and bases can be defined according to their properties and reactions, or the hydrogen ions attract to the water molecules to form hydronium $\text{H}^+$ions.
+
+## Properties of Acids and Bases
+
+| **Properties of Acids**               | **Properties of Bases**               |
+| ------------------------------------- | ------------------------------------- |
+| Turn purple litmus indicator red      | Turn purple litmus indicator blue     |
+| Tend to be corrosive                  | Are caustic and feel slippery         |
+| Taste sour                            | Taste bitter                          |
+| React with bases                      | React with acids                      |
+| Solutions have a pH below 7.0         | Solutions have a pH above 7.0         |
+| Solutions conduct an electric current | Solutions conduct an electric current |
+
+## Conjugate Acid-Base Pairs
+
+The Brønsted-Lowry theory introduces the concept of acid-base conjugate pairs.
+
+A conjugate acid-base pair is two molecules or ions that **differ by one proton** $\text{H}^+$.
+
+A **conjugate base** is the substance produced when **a Brønsted-Lowry acid deprotonated**.
+
+$$\text{HF(aq)} + \text{H}_2\text{O(l)} \rightleftharpoons \text{H}_3\text{O}^+(\text{aq}) + \text{F}^-(\text{aq})$$
+
+A **conjugate acid** is the substance produced when **a Brønsted-Lowry base accepts a proton**.
+
+$$\text{NH}_3(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{NH}_4^+(\text{aq}) + \text{OH}^-(\text{aq})$$
+
+## Amphiprotic Substances
+
+Some substances can either donate or accept protons, depending on the substance they are reacting with. These substances are called amphiprotic substances.
+
+**Amphiprotic substances can behave as either an acid or a base**.
+
+The amphiprotic species will act as an acid when it reacts with a stronger base or it will act as a base if reacted with a stronger acid.
+
+Water is an amphiprotic substance because it can both receive a proton to form hydronium $\text{H}_3\text{O}^+$, and donate a proton to form hydroxide ion $\text{OH}^-$.
+
+## Classification of Acids
+
+### Monoprotic Acids
+
+**Monoprotic acids can donate only one proton**.
+
+These acids include hydrochloric acid $\text{HCl}$, hydrofluoric acid $\text{HF}$, nitric acid $\text{HNO}_3$ and ethanoic acid $\text{CH}_3\text{COOH}$.
+
+### Polyprotic Acids
+
+**Acids that can donate more than one proton** from each molecule are called **polyprotic acids**. The number of hydrogen ions an acid can donate depends on the structure of the acid.
+
+Polyprotic acids **do not donate all of their protons at once**, but do so in steps when reacting with a base.
+
+#### Diprotic Acids
+
+**Diprotic acids can donate two protons**. These include sulphuric acid $\text{H}_2\text{SO}_4$, and carbonic acid $\text{H}_2\text{CO}_3$, 
+
+A diprotic acid **dissociates in two stages**.
+
+#### Triprotic Acids
+
+**Triprotic acids can donate three protons**. These include phosphoric acid $\text{H}_3\text{PO}_4$ and boric acid $\text{H}_3\text{BO}_3$.
+
+A triprotic acid **dissociates in three stages**.
+
+## Chemical Reactions
+
+### Double Displacement Reactions
+
+Acid-base ionic reactions are known as double displacement reactions; being a reaction that starts and ends with the same number of substances. However, an atom or an ion in one or both compounds is displaced.
+
+$$\text{AB}+\text{CD}\to \text{AD}+\text{BC}$$
+
+### Neutralisation Reactions
+
+$$\text{acid} + \text{base} \rightarrow \text{salt} + \text{water}$$
+
+Most neutralisation reactions go to completion, however **the reaction between a weak acid and a weak base is reversible**.
+
+### Acid-Metal Reactions
+
+$$\text{acid} + \text{metal} \rightarrow \text{salt} + \text{hydrogen gas}$$
+
+### Acid-Carbonate Reactions
+
+$$\text{acid} + \text{carbonate} \rightarrow \text{salt} + \text{water} + \text{carbon dioxide}$$
+
+## Strength of Acids and Bases
+
+The Brønsted-Lowry theory defines the strength of an acid as its **ability to donate protons to a base**.
+
+| Strong Acids      | Weak Acids      | Strong Bases        | Weak Bases    |
+| ----------------- | --------------- | ------------------- | ------------- |
+| Hydrochloric acid | Ethanoic acid   | Sodium hydroxide    | Ammonia       |
+| Sulphuric acid    | Carbonic acid   | Potassium hydroxide | Pyridine      |
+| Nitric acid       | Phosphoric acid | Calcium hydroxide   | Dimethylamine |
+
+### Strong Acids and Bases
+
+**Strong acids and bases can fully dissociate in water**.
+
+Both The single reaction arrow in each equation above indicates that the dissociation reaction is complete.
+
+### Weak Acids and Bases
+
+Weak acids and bases can only **partially dissolve in water**.
+
+Reversible arrow is used in the dissociation equation.
+
+### Strength and Concentration
+
+Concentration refers to the amount of ions presenting in the solution, however the strength refers to how much the acid or base can dissociate in water.
+
+![[strength and concentration.png]]
+
+### Acidity of Salt
+
+When a **strong acid** reacts with a **weak base**, an **acidic salt** is formed.
+
+When a **weak acid** reacts with a **strong base**, an **basic salt** is formed.
+
+When a **strong acid** reacts with a **strong base**, an **neutral salt** is formed.
+
+## pH Indicators
+
+pH indicators are chemicals that provide qualitative information on a solution's pH. They change colour as the pH of a solution changes.
+
+![[images/indicators.png]]
+
+Indicators are **weak acids**, hence only small amount of indicator should be added when using.
+
+# Quantitative Analysis of Acids and Bases
+
+## Ionic Product of Water
+
+Pure water displays **amphiprotic properties** because it undergoes the self-ionisation.
+
+$${\text{H}_2\text{O}}\text{(l)}+{\text{H}_2\text{O}}\text{(l)}\rightleftharpoons {\text{H}_3\text{O}^+}\text{(aq)}+{\text{OH}^-}\text{(aq)}$$
+
+**Ionic product of water** is introduced to **indicate the concentration of hydronium ions and hydroxide ions** in the water at 25ºC.
+
+$$K_w=[{\text{H}_3\text{O}}^+][{\text{OH}}^-]=1.0\times 10^{-14}$$
+
+## Acidity and Basicity
+
+### pH Scale
+
+The acidity of a solution is measured by pH which stands for the potential of hydrogen.
+
+It is **the concentration of hydronium ions** in a solution.
+
+$$\text{pH}=-\log_{10}[\text{H}_3\text{O}^+]$$
+
+$$[{\text{H}_3\text{O}}^+]=10^{-\text{pH}}$$
+
+### pOH Scale
+
+The basicity of a solution can be measured with pOH.
+
+It is **the concentration of hydroxide ions** in a solution.
+
+$$\text{pOH}=-\log_{10}{[{\text{OH}}^-]}$$
+
+$$[{\text{OH}}^-]=10^{-\text{pOH}}$$
+
+## Dissociation Constant
+
+### $K_a$ and $K_b$
+
+The **strength of weak acids and bases** can be measured and quantified by the **equilibrium constant of their dissociation** reaction as their dissociation reactions are equilibrium reactions.
+
+The dissociation constant of weak acids is notated as $K_a$, and $K_b$ for weak bases.
+
+$K_w$ is the product of $K_a$ and $K_b$.
+
+### $pK_a$ and $pK_b$
+
+$pK_a$ and $pK_b$ are also defined as the dissociation constant of weak acids and bases.
+
+As $K_a$ and $K_b$ values vary greatly over numerous magnitudes, $pK_a$ and $pK_b$ are used to measure acids and bases strength on a logarithmic scale.
+
+$$pK_a = - \log_{10}(K_a)$$
+
+$$pK_b = - \log_{10}(K_b)$$
+
+### Dissociation Constant and Strength
+
+|                         | Weak Acid     | Conjugate Weak Base |
+| ----------------------- | ------------- | ------------------- |
+| High $K_a$ & Low $pK_a$ | High Strength | Low Strength        |
+| Low $K_a$ & High $pK_a$ | Low Strength  | High Strength       |
+
+|                         | Weak Base     | Conjugate Weak Acid |
+| ----------------------- | ------------- | ------------------- |
+| High $K_b$ & Low $pK_b$ | High Strength | Low Strength        |
+| Low $K_b$ & High $pK_b$ | Low Strength  | High Strength       |
+
+## Titration
+
+Titration is an analytical technique used to determine the **concentration of a solution**.
+
+It is a **quantitative technique** since it involves numerical measurement.
+
+### Standard Solutions
+
+A standard solution is **a solution containing a precisely known concentration of an element or a substance**.
+
+**Primary standard**: the standard solution we have prepared from dissolving the solid.
+
+**Secondary standard**: a pure solution whose concentration is determined by titrating against the primary.
+
+Properties of a primary standard include:
+1. **High purity**: no side reaction occur
+2. **Chemically stable** in the presence of air: no reaction with air occur when storing
+3. **Anhydrous**: no change relates to atmospheric conditions such as humidity
+4. **Readily soluble** in pure water: easy to form a solution
+5. **High molar weight**: reduce percentage error during weighing
+6. **Inexpensive**: affordable for lab use
+
+Examples of substances **unsuitable** for making primary standard solutions:
+- Hydrochloric acid: volatile
+- Sodium hydroxide: hygroscopic (absorb water moisture) and react with carbon dioxide in the air
+
+Examples of **good standard solutions**:
+- Benzoic acid
+- Anhydrous sodium carbonate
+- Anhydrous sodium hydrogen carbonate
+
+#### Making Standard Solution
+
+![[standard solution.png]]
+
+Step 1: **Calculate** and **weigh** the correct quantity of the substance using an **electrical balance** in a small beaker.
+
+- **Measure the mass in the beaker** instead of the volumetric flask because it is hard to remove the substance from the flask if measurement is incorrect.
+
+Step 2: **Dissolve the solid** in the beaker with a small volume of **distilled water**.
+
+- **Using a stirring rod** to help complete dissolve the solid.
+- Adding distilled water in this step will not affect the concentration of the final solution as all contents will be transferred into the volumetric flask.
+
+Step 3: **Transfer all the solution to a volumetric flask** using the **wash bottle**.
+
+- Ensure that the volumetric flask is **rinsed with distilled water** prior to use.
+- Ensure **complete transfer** of the solution by **rinsing the beaker using the wash bottle** to ensure the accuracy.
+
+Step 4: Add distilled water using a **pipette** until **the bottom of the meniscus is level with the calibration mark** of the flask.
+
+Step 5: **Stopper the flask** and **invert** 10 times to ensure that the solution is uniformly mixed.
+
+### Basic Titration
+
+#### Equipments
+
+**Burette** contains the **titre**, which is the solution with **known concentration** (standard solution).
+
+**Conical flask** contains the **analyte**, which is the solution with **unknown concentration**.
+
+**Pipette** is used to **transfer** a specific and accurate volume of **analyte into the conical flask**.
+
+#### Preparing for Titration
+
+##### Rinsing
+
+- The **burette** is washed with **distilled water**, followed by a small amount of **titre** prior to use.
+- The **pipette** is rinsed with the solution that is to be transferred, usually the **analyte**.
+- The **conical flask** is to be rinsed with **distilled water** prior to use.
+
+##### Indicator
+
+After the solution is transferred, add a few drops of an **appropriate acid/base indicator**.
+
+- **Equivalence point**: the point at which acid and base react in their stoichiometric ratio to **reach complete neutralisation**.
+- **End point**: the point at which the mixture **changes colour** when an indicator is added.
+
+The “end point” can be used to approximate the equivalence point provided that the choice of indicator is appropriate.
+
+**The indicator should change colour when the predicted equivalence point is reached**.
+
+##### Setup
+
+![[titration setup.png]]
+
+**Place the conical flask on a white tile** for a better visualisation of the indicator's endpoint.
+
+#### Titration Process
+
+1. Ensure **stopcock is closed** and fill burette.
+2. **Record starting volume**.
+3. Add analyte to the 250mL conical flask using pipette.
+4. Add two to three drops of the appropriate indicator.
+5. Place the flask on a sheet of white paper under the conical flask.
+6. Slowly run the titre into the flask while **swirling continuously**.
+7. **Stop when the colour changes permanently**. This is the end point/equivalence point.
+8. **Record the end volume** of the titre and calculate the volume used.
+9. Repeat the process three times and record all datas.
+
+#### Analysing Results
+
+When calculating the average titre volume in the titration, calculation should not include:
+- **Rough Titration**
+- **Outliers**
+
+A **rough titration** is the **first titration trial** performed in an experiment.
+
+The rough titration provides an **estimation** of the titre volume and helps produce more accurate titrations in subsequent trials.
+
+### Back Titration
+
+Back titration is a particular variant of titration that involves the determination of a solution's concentration by **reacting it with an excess quantity of a standard solution**.
+
+Back titration technique is considered when:
+- **Direct titration is not possible** or inaccurate (e.g. acid-metal reaction where gas is produced)
+- Titration involving **volatile substance** (e.g. ammonia)
+- Titration involving a **slow reaction** where the equivalence point before endpoint
+- Titration involving **weak acid and weak base**.
+
+### Titration Curve
+
+There are two two types of titration involving acids and bases:  
+
+1. **pH titration:** uses pH value to measure equivalence point
+2. **Conductometric titration:** uses electrical conductivity to measure equivalence point
+
+#### pH Titration
+
+A titration curve is the plot of **the pH of the analyte solution versus the volume of the titre added** as the titration progresses.
+
+The pH value of the analyte solution is measured using the **pH probe**.
+
+The equivalence point of the titration can be determined by looking at the **inflection point** on the titration curve.
+
+![[ph titration curve.png]]
+
+Type 1: **Strong Acid and Strong Base**
+
+- For a strong acid and strong base titration, there is a steep (almost **vertical**) pH change at equivalence point.
+- **pH value of the equivalence point is 7** as the neutralisation always produces a **neutral salt**.
+
+Type 2: **Strong Acid and Weak Base**
+
+- The equivalence point of a strong acid and weak base titration is **below pH of 7** due to the presence of an **acidic salt**.
+
+Type 3: **Weak Acid and Strong Base**
+
+- The equivalence of a strong base and weak acid titration is **above the pH of 7** due to the presence of a **basic salt**.
+
+Type 4: **Weak Acid and Weak Base**
+
+- The titration curve for weak acid and weak base titration has a characteristic **flattened appearance**.
+- The ‘flatter’ change in pH is due to the **formation of a buffer** in the flask as titration takes place.
+- Direct titration involving weak acids and weak bases is generally avoided as **the equivalent point cannot be accurately determined**.
+
+##### pH Titration for Polyprotic Acids
+
+Polyprotic acids are acids with **multiple acidic protons**.
+
+Acidic protons are hydrogen atoms that can be deprotonated as hydrogen ions. **During titration, each acidic proton has its own equivalence point**.
+
+##### Buffer Regions
+
+A buffer is a system that will **resist changes in pH**.
+
+The buffer region can be identified at the beginning of the pH titration, where the **change in pH is not significant**.
+
+The rate of change in pH increases as more acids or bases is added as it surpasses the buffer capacity, which is **a buffer's effectiveness in minimising changes in pH**.
+
+![[buffer regions.png]]
+
+#### Conductometric Titration
+
+In a conductometric titration, the progress of titration is measured using a **conductivity meter**.
+
+As the **concentrations of ions change** throughout titration, **the conductivity of the solution changes**.
+
+Conductometric titration determines the equivalence point based on a **turning point in the change of conductivity**.
+
+**Hydrogen and hydroxide ions are the most conductive due to their smaller sizes**. Hence, measuring the conductivity change is a good representation of the change in the concentration of hydrogen ions and hydroxide ions.
+
+The strength of acids and bases influence the rate and shape of the titration curve.
+
+Type 1: **Strong Acid + Strong Base**
+
+![[cond. strong+strong.jpg]]
+
+- The initial conductivity of the solution is **relatively high** because the **fully dissociation of the strong acid**.
+- As the strong base is added, **the concentration of hydrogen ions decreases due to the neutralisation between acids and bases**.
+- When the titration reaches the **equivalence point**, the **conductivity of the solution reaches a minimum value** as **hydrogen ions are completely neutralised** by the addition of bases.
+- After the equivalence point, the **conductivity of the solution increases** due to **increasing concentration of hydroxide ions**.
+
+Type 2: **Strong Acid + Weak Base**
+
+![[cond. strong+weak.jpg]]
+
+- The initial conductivity of the solution is **relatively high** because the **strong acid completely dissociates** to produce a relatively **large concentration of hydrogen ions**.
+- As the weak base is added, **the concentration of hydrogen ions decreases due to the neutralisation between acids and bases**.
+- At the **equivalence point**, the **conductivity reaches its lowest value** because **all hydrogen ions have been neutralised** by the addition of bases.
+- After the equivalence point, the addition of excess weak bases **only increases the conductivity slightly** as it only **partially ionises** in water to produce a relatively small concentration of hydroxide ions.
+- Eventually the line is **horizontal** as the increase in hydroxide ions is too small to influence the conductivity.
+
+Type 3: **Weak Acid + Strong Base**
+
+![[cond. weak+strong.jpg]]
+
+- The initial conductivity of the solution is **relatively low** because the **weak acid partially dissociates** to produce a **relatively small amount of hydrogen ions**.
+- As strong base is added, it **neutralises the small number of hydrogen ions** present in solution, leading to a **small reduction in conductivity**.
+- After the initial number of hydrogen ions are neutralised, the **dissociation of weak acid is favoured** according to the Le Chatelier's Principle, **producing more hydrogen ions**, result in an **increase in conductivity**.
+- After the **equivalence point**, the **conductivity of the solution increases at a faster rate** due to the **increase in concentration of hydroxide ions** as all hydrogen ions have been neutralised.
+
+Type 4: **Weak Acid + Weak Base**
+
+![[cond. weak+weak.jpg]]
+
+- The initial conductivity is **relatively low** because acetic acid is a **weak acid that partially dissociates** to produce a **relatively small concentration of hydrogen ions**.
+- As the weak base is added, it **neutralises with the small number of hydrogen ions** present in solution, leading to a **small reduction in conductivity**.
+- After the initial number of hydrogen ions are neutralised, the **dissociation of weak acid is favoured** according to the Le Chatelier's Principle, **producing more hydrogen ions**, result in an **increase in conductivity**.
+- After the **equivalence point**, the **conductivity of the solution increases at a faster rate** due to the **increase in concentration of hydroxide ions** as all hydrogen ions have been neutralised. However, this rate is still low as the weak base can only partially dissociate in water.
+- Eventually the line is **horizontal** as the increase in hydroxide ions is too small to influence the conductivity.
+
+# Buffers
+
+A buffer is a chemical system that **resists changes in pH when a small amount of acid or base is added**.
+
+A buffer contains either:
+- comparable amounts of a **weak acid and its conjugate base**
+- comparable amounts of a **weak base and its conjugate acid**
+
+**Strong acids and strong bases cannot be used to make buffers** as they completely ionise in water.
+
+## Actions of Buffers
+
+Ethanoic acid/ethanoate buffer is a buffer system that can help minimise change in pH when a small amount of acid/base is added.
+
+The pH value will change to a small extent, but not much because the existence of buffer.
+
+$${\text{CH}_3\text{COOH}}\text{(aq)}+{\text{H}_2\text{O}}\text{(l)} \rightleftharpoons {\text{CH}_3\text{COO}^-}\text{(aq)}+{{\text{H}_3\text{O}}^+}\text{(aq)}$$
+
+### Adding Acids
+
+When a small amount of acid is added, **a buffer minimises the decrease in pH**.
+
+When an acid is added into a buffer solution, the acid will dissociate in water **forming hydronium ions**.
+
+The adding hydronium ions will **disturb the equilibrium** in the buffer solution.
+
+According to Le Chatelier's Principle, **the increase in the concentration of hydronium ions will favour the reverse reaction**.
+
+Some hydronium ions will react with ethanoate ions in the buffer solution, **decreasing the concentration of hydronium ions**.
+
+As **the concentration of hydronium ions remains relatively constant**, pH value of the system is controlled. 
+
+### Adding Bases
+
+When a base is added into a buffer solution, the base will dissociate in water **forming hydroxide ions**.
+
+The adding hydroxide ions will **disturb the equilibrium** in the buffer solution as it **neutralise hydronium ions** in the buffer equilibrium.
+
+According to Le Chatelier's Principle, **the decrease in the concentration of hydronium ions will favour the forward reaction**.
+
+Some water will react with the ethanoic acid in the buffer solution, **increase the concentration of hydronium ions**.
+
+As **the concentration of hydronium ions remains relatively constant**, pH value of the system is controlled. 
+
+## Buffer Capacity
+
+Buffering capacity is **a buffer's effectiveness in minimising changes in pH** when an acid or base is added.
+
+**Buffering capacity of any buffer decreases with the addition of an acid or base**.
+
+Buffer capacity is the greatest when
+1. There is a **high concentration** of the weak acid and its conjugate base.
+2. The **concentration of the acid and its conjugate base are equal**.
+
+## Natural Buffer Systems
+
+### Biological Buffer Systems
+
+#### Carbonic Acid Buffer System
+
+**Carbonic acid buffer** controls **the blood pH** in the human body.
+
+$${\text{H}_2\text{CO}_3}\text{(aq)}+{\text{H}_2}\text{O}\text{(l)}\rightleftharpoons {{\text{HCO}_3}^-}\text{(aq)}+{{\text{H}_3\text{O}}^+}\text{(aq)}$$
+
+**The pH of human blood is maintained between 7.35 and 7.45**.
+
+The change of acidity in the blood will disturb the equilibrium.
+
+According to Le Chatelier's Principle, if additional hydronium ions enter the blood, they will react with ${{\text{HCO}_3}^-}$ and shift the equilibrium to the left.
+
+If addition hydroxide ions enter the blood, they will react with ${\text{H}_2\text{CO}_3}$, minimising the effect on hydronium ion concentration and maintaining pH value.
+
+#### Phosphate Buffer System
+
+**Phosphate buffer** controls **the pH value of the internal fluid** of all cells.
+
+$${{\text{H}_2\text{PO}_4}^-}\text{(aq)}+{\text{H}_2\text{O}}\text{(l)}\rightleftharpoons {{\text{H}_3\text{O}}^+}\text{(aq)}+{{\text{HPO}_4}^{3-}}\text{(aq)}$$
+
+**The pH of intracellular fluid is maintained between 7.0 and 7.4**.
+
+The change of acidity in the internal fluid will disturb the equilibrium.
+
+According to Le Chatelier's Principle, if additional hydronium ions enter the cellular fluid, they react with ${{\text{HPO}_4}^{3-}}$ and shift the equilibrium to the left.
+
+If addition hydroxide ions enter the blood, they will react with ${{\text{H}_2\text{PO}_4}^-}$, minimising the effect on hydronium ion concentration and maintaining pH value.
+
+### Environmental Buffer Systems
+
+#### Soil Acidity
+
+**The pH value of soils is controlled by complex buffering system** involving carbonate, hydrogen carbonates and phosphates as well as organic acids.
+
+#### Ocean Acidity
+
+**Ocean acidification is caused by the over emission of greenhouse gas - carbon dioxide**.
+
+The complex buffer system in the ocean can maintain the pH value of the ocean by some extent.
+
+$${{\text{H}_2\text{CO}_3}}\text{(aq)}+{\text{H}_2\text{O}}\text{(l)}\rightleftharpoons {{\text{H}_3\text{O}}^+}\text{(aq)}+{{\text{HCO}_3}^{-}}\text{(aq)}$$
+
+**The maintenance of pH of water bodies is important for sustaining marine life**, for example, slightly acidification can hinder coral skeleton growth.

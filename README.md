@@ -1,3 +1,1 @@
-The Chemistry Stage 6 Syllabus explores the structure, composition and reactions of and between all elements, compounds and mixtures that exist in the Universe. The discovery and synthesis of new compounds, the monitoring of elements and compounds in the environment, and an understanding of industrial processes and their applications to life processes are central to human progress and our ability to develop future industries and sustainability.
-
 - [Module 5: Equilibrium and Acid Reactions](pages/module-5.md)
