@@ -1,91 +1,85 @@
-# Acid and Base Theories
+# Module 6: Acid-Base Reactions
 
-## Lavoisier's Theory (Oxygen Theory)
+## Acid-Base Theories
+
+### Lavoisier's Theory (Oxygen Theory)
 
 French chemist Antoine Lavoisier showed that many non-metal compounds containing oxygen produced acidic solutions when dissolved in water.
 
-$$\text{CO}_2(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{H}_2\text{CO}_3(\text{aq})$$
+$$\ce{CO2(aq) + H2O(l) -> H2CO3(aq)}$$
 
-Lavoisier hypothesised that **the presence of oxygen atoms in these compounds gave them their acidic properties**.
+Lavoisier hypothesised that the presence of oxygen atoms in these compounds gave them their acidic properties.
 
-**Limitation:**
+Limitation: Many experiments showed acidic properties in substances which do not contain oxygen, e.g. HCl.
 
-- Many experiments showed **acidic properties in substances which do not contain oxygen** e.g. HCl.
-
-## Devy's Theory (Hydrogen Theory)
+### Davy's Theory (Hydrogen Theory)
 
 Davy electrolysed samples of hydrochloric acid and showed that it produced hydrogen gas and chlorine gas, but not oxygen gas. This experiment helped to disprove Lavoisier’s oxygen theory of acids.
 
 Later experiments by other chemists showed that other acids such as hydrocyanic acid (HCN), also contained no oxygen but did contain hydrogen.
 
-Davy proposed that **the presence of hydrogen in acids gave them their acidic properties**.
+Davy proposed that the presence of hydrogen in acids gave them their acidic properties.
 
-**Limitation:**
+Limitation: Davy’s theory did not explain why many compounds with hydrogen atoms were not acidic e.g. methane.
 
-- Davy’s theory did not explain why many **compounds with hydrogen atoms were not acidic** e.g. methane.
+### Arrhenius' Theory
 
-## Arrhenius' Theory
+Arrhenius acids are substances that dissociate to produce hydrogen ion in water.
 
-Arrhenius acids are substances that **dissociate to produce hydrogen ion in water**.
+$$\ce{HCl(aq) -> H+(aq) + Cl-(aq)}$$
 
-$$\text{HCl(aq)} \rightarrow \text{H}^+(\text{aq}) + \text{Cl}^-(\text{aq})$$
+Arrhenius bases are substances that dissociate to produce hydroxide ion in water.
 
-Arrhenius bases are substances that **dissociate to produce hydroxide ion in water**.
+$$\ce{NaOH(aq) -> Na+(aq) + OH-(aq)}$$
 
-$$\text{NaOH(aq)} \rightarrow \text{Na}^+\text{(aq)} + \text{OH}^-\text{(aq)}$$
+Arrhenius’ theory explains neutralisation between acids and bases. He proposed that when neutralisation occurs, the hydrogen ions (produced by acids), reacts with hydroxide ions (produced by bases), to form water.
 
-Arrhenius’ theory explains neutralisation between acids and bases. He proposed that when neutralisation occurs, **the hydrogen ions (produced by acids), reacts with hydroxide ions (produced by bases), to form water**.
+$$\ce{H+(aq) + OH-(aq) -> H2O(l)}$$
 
-$$\text{HCl(aq)} + \text{NaOH(aq)} \rightarrow \text{NaCl(aq)} + \text{H}_2\text{O(l)}$$
+Arrhenius also notated that the most reactive acids also had the highest electrical conductivities. This has led to the concept that the strongest acids are the most dissociated in an aqueous solution.
 
-**Limitation:**
+**Limitation**:
 
-1. Arrhenius could not explain why certain compounds such as **metal oxides** and **metal carbonates**, **do not contain hydroxide ions**, despite **displaying basic properties**.
+1. Arrhenius’ definition does not explain the basic behaviour of substances like ammonia $\ce{NH3}$, which do not contain hydroxide ions in their formulae and hence should not be able to produce $\ce{OH-}$.
+2. Arrhenius could not explain why certain compounds such as metal oxides and metal carbonates, do not contain hydroxide ions, despite displaying basic properties.
+   $$\ce{2HCl(aq) + CaCO3(s) -> CaCl2(aq) + H2O(l) + CO2(g)}$$
+3. Arrhenius could not explain why neutralisation reactions between some acids and bases produced solutions that were not neutral. For example, the reaction between ammonia and hydrochloric acid produces an acidic solution.
+4. Arrhenius could not explain acid-base reactions that do not occur in aqueous solutions.
+   $$\ce{NH3(g) + HCl(g) -> NH4Cl(s)}$$
 
-$$2\text{HCl(aq)} + \text{CaCO}_3\text{(s)} \rightarrow \text{CaCl}_2\text{(aq)} + \text{H}_2\text{O}(l) + \text{CO}_2\text{(g)}$$
+### Brønsted-Lowry Theory
 
-2. Arrhenius could not explain why **some neutrally-charged salts are acidic in solution whilst others are basic**.
+Brønsted-Lowry acids are protons donors, any compound that can donate protons regardless of its state of matter or the nature of the solvent.
 
-3. Arrhenius could not explain acid-base reactions that **do not occur in aqueous solutions**.
+$$\ce{HCl(aq) + H2O(l) -> H3O+(aq) + Cl-(aq)}$$
 
-$$\text{NH}_3(\text{g}) + \text{HCl}(\text{g}) \rightleftharpoons \text{NH}_4\text{Cl}(\text{g})$$
+Brønsted-Lowry bases are protons acceptors, any compound that can accept protons regardless of its state of matter or nature of the solvent.
 
-## Brønsted-Lowry Theory
+$$\ce{NH3(aq) + H2O(l) -> NH4+(aq) + OH-(aq)}$$
 
-Brønsted-Lowry acids are **protons donors**, any compound that can donate protons regardless of its state of matter or the nature of the solvent.
+A proton is equivalent to a hydrogen ion $\ce{H+}$ because when a hydrogen-1 atom loses an electron, only a proton remains. However, $\ce{H+}$ does not technically exist independently in solution.
 
-$$\text{HCl}(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightarrow \text{H}_3\text{O}^+(\text{aq}) + \text{Cl}^-(\text{aq})$$
-
-Brønsted-Lowry bases are **protons acceptors**, any compound that can accept protons regardless of its state of matter or nature of the solvent.
-
-$$\text{NH}_3(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{NH}_4^+(\text{aq}) + \text{OH}^-(\text{aq})$$
-
-**A proton is equivalent to a hydrogen ion** because when a hydrogen-1 atom loses an electron, **only a proton remains**.
+$$\ce{H+ +H2O -> H3O+}$$
 
 Brønsted-Lowry theory assigned a role to the solvent. In addition to being a solvent, the theory outlines the important ionising role of water.
 
-**Water can act has both an acid (proton donors) and a base (proton acceptors)**.
+Water can act has both an acid (proton donors) and a base (proton acceptors).
 
-According to the Brønsted-Lowry theory, an acid-base reaction occurs when there is **a transfer of proton(s)** from the acid to the base. This **can occur in non-aqueous states**.
+According to the Brønsted-Lowry theory, an acid-base reaction occurs when there is a transfer of proton(s) from the acid to the base. This can occur in non-aqueous states.
 
-**Limitation:**
+**Limitation**:
 
-- Brønsted-Lowry theory does not explain the **acidity of acidic oxides** and **basicity of basic oxides**, and the reactions between acidic and basic oxides as they do not involve proton transfer.
-	$$\text{SO}_3(\text{g}) + \text{CaO}(\text{s}) \rightarrow \text{CaSO}_4(\text{s})$$
-	
-	This limitations are explained in the **Lewis Theory** of acid and bases which states that **acids are electron pair acceptors**, and **bases are electron pair donors**
+Brønsted-Lowry theory does not explain the acidity of acidic oxides and basicity of basic oxides, and the reactions between acidic and basic oxides as they do not involve proton transfer.
 
-# Qualitative Analysis of Acids and Bases
+$$\ce{SO3(g) + CaO(s) -> CaSO4(s)}$$
 
-Substance can either be organic or inorganic:
-1. Inorganic, being derived from a non-living material.
-2. Organic, being carbon-based and are derived from once living matter.
-
-Acids and bases can be defined according to their properties and reactions, or the hydrogen ions attract to the water molecules to form hydronium $\text{H}^+$ions.
+This limitations are explained in the Lewis Theory of acid and bases which states that acids are electron pair acceptors, and bases are electron pair donors
 
 ## Properties of Acids and Bases
 
-| **Properties of Acids**               | **Properties of Bases**               |
+Acids and bases are two groups of commonly used substances with several common properties:
+
+| Properties of Acids                   | Properties of Bases                   |
 | ------------------------------------- | ------------------------------------- |
 | Turn purple litmus indicator red      | Turn purple litmus indicator blue     |
 | Tend to be corrosive                  | Are caustic and feel slippery         |
@@ -94,7 +88,111 @@ Acids and bases can be defined according to their properties and reactions, or t
 | Solutions have a pH below 7.0         | Solutions have a pH above 7.0         |
 | Solutions conduct an electric current | Solutions conduct an electric current |
 
-## Conjugate Acid-Base Pairs
+### Common Acids and Bases
+
+| Strong Acid      | Weak Acid                   |
+|------------------|-----------------------------|
+| $\ce{HClO4}$ (Perchloric acid)    | $\ce{H3PO4}$ (Phosphoric acid)               |
+| $\ce{HI}$ (Iodic acid)       | $\ce{HF}$ (Hydrofluoric acid)                  |
+| $\ce{HBr}$ (Hydrobromic acid)      | $\ce{CH3COOH}$ (Ethanoic acid - acetic acid)             |
+| $\ce{H2SO4}$ (Sulfuric acid)    | $\ce{CH2OOH}$ (Methanoic acid)              |
+| $\ce{HCl}$ (Hydrochloric acid)      | $\ce{C6H8O7}$ (Citric acid)              |
+| $\ce{HNO3}$ (Nitric acid)     | $\ce{C2H2O4}$ (Oxalic acid)              |
+
+| Strong Base      | Weak Base                   |
+|------------------|-----------------------------|
+| $\ce{NaOH}$ (Sodium hydroxide)    | $\ce{NH3}$ (Ammonia)               |
+| $\ce{KOH}$ (Potassium hydroxide)       | $\ce{NaHCO3}$ (Sodium bicarbonate)                  |
+| $\ce{Ba(OH)2}$ (Barium hydroxide)      | $\ce{CH3NH2}$ (Methylamine)             |
+| $\ce{Ca(OH)2}$ (Calcium hydroxide)    | $\ce{(CH3CH2)2NH2}$ (Diethylamine)              |
+
+### Nomenclature
+
+Acid names apply to the following two different groups of acids:
+- Binary acids do not contain oxygen (particularly hydrohalic acids).
+- Oxyacids are inorganic compounds made up of oxygen.
+
+The naming convention of inorganic bases follows nomenclature of ionic compounds.
+
+#### Hydrohalic Acids
+
+Hydrohalic acids are aqueous solutions of binary inorganic compounds in which hydrogen is combined with a halogen (Group 17) element.
+
+To name it, add 'hydro' as the prefix, end the name of the halogen element with '-ic', and add 'acid' at the end.
+
+| Molecular Formula | Prefix    | Modified Name of Element | Acid Name            |
+|-------------------|-----------|--------------------------|----------------------|
+| HF                | Hydro     | Fluorine - ine + ic      | Hydrofluoric acid    |
+| HCl               | Hydro     | Chlorine - ine + ic      | Hydrochloric acid    |
+| HBr               | Hydro     | Bromine - ine + ic       | Hydrobromic acid     |
+| HI                | Hydro     | Iodine - ine + ic        | Hydroiodic acid      |
+
+#### Oxyacids
+
+Oxyacids are inorganic compounds made up of oxygen, hydrogen and one other element called the central atom or central element.
+
+The '-ic' suffix indicates more oxygen is present in the compound than for the '-ous' suffix. The table below includes compounds containing oxygen and hydrogen and one other element that is not a halogen (Group 17) element.
+
+| Central Element | Most Oxygen (Highest Oxidation State)       | Least Oxygen (Lowest Oxidation State)      |
+|-----------------|---------------------------------------------|--------------------------------------------|
+| Nitrogen        | $\ce{HNO3}$ (Nitric acid)                     | $\ce{HNO2}$ (Nitrous acid)                   |
+| Phosphorus      | $\ce{H3PO4}$ (Phosphoric acid)                | $\ce{H3PO3}$ (Phosphorous acid)              |
+| Sulfur          | $\ce{H2SO4}$ (Sulfuric acid)                  | $\ce{H2SO3}$ (Sulfurous acid)                |
+
+### Chemical Reactions
+
+Acid-base ionic reactions are known as double displacement reactions; being a reaction that starts and ends with the same number of substances. However, an atom or an ion in one or both compounds is displaced.
+
+$$\ce{AB + CD -> AD + BC}$$
+
+#### Neutralisation Reactions
+
+$$\ce{acid + base (metal hydroxide) -> salt + water}$$
+
+Most neutralisation reactions go to completion, however the reaction between a weak acid and a weak base is reversible.
+
+Reaction between acid and metal hydroxide is considered an acid-base reaction in both the Arrhenius and Brønsted-Lowry definition.
+
+##### Arrhenius Neutralisation
+
+In the Arrhenius theory, an acid-base reaction always produce water (in addition to salt) because $\ce{H+}$ ions (produced by acids) and $\ce{OH-}$ ions (produced by bases) react in aqueous solution to form water.
+  
+Net ionic equation of an Arrhenius acid-base reaction: $\ce{H+(aq) + OH-(aq) -> H2O(l)}$
+  
+The reaction between an acid and an Arrhenius base can be simply understood as the neutralisation between hydrogen ions and hydroxide ions.
+
+##### Brønsted-Lowry Neutralisation
+
+In the Brønsted-Lowry theory, acid-base reactions are reactions that involve transfer of protons or $\ce{H+}$ This type of reaction is best exemplified by the dissociation of acid (or base) in water.
+
+In this reaction, water acts as both a solvent and base because it accepts a proton from the acid. Not all neutralisations produce water.
+
+All reactions with acids form salts which are defined as an ionic compound that consists of an anion of acid and a cation of base. The ions which make up the salt are spectator ions because they remain dissolved as ions.
+
+#### Acid-Metal Reactions
+
+$$\ce{acid + metal -> salt + hydrogen gas}$$
+
+The reaction between active metals (low ionisation energy) and dilute acids are extremely volatile.
+
+The products are, salt, hydrogen gas and heat – latter two react to produce explosions.
+
+| Metal | Observed Reaction with Acid |
+|-------|------------------------------|
+| $\ce{K, Na}$ | Rapid Effervescence producing hydrogen gas which may ignite |
+| $\ce{Ca, Mg}$ | Rapid bubbling leading to the release of hydrogen gas |
+| $\ce{Al, Zn, Fe, Sn, Pb}$ | Moderate to very slow bubbling as hydrogen is released; reaction is faster in warm acid; lead stops reacting when coated with insoluble $\ce{PbCl2}$ or $\ce{PbSO4}$ |
+| $\ce{Cu, Hg, Ag, Au}$ | No Reaction |
+
+#### Acid-Carbonate Reactions
+
+$$\ce{acid + metal/hydrogen carbonate -> salt + water + carbon dioxide}$$
+
+Carbonates and hydrogen carbonates are Brønsted-Lowry bases because they are able to accept proton(s).
+
+Carbonates and hydrogen carbonates are not considered as bases in the Arrhenius theory because they do not dissociate into hydroxide ions in aqueous solution.
+
+### Conjugate Acid-Base Pairs
 
 The Brønsted-Lowry theory introduces the concept of acid-base conjugate pairs.
 
@@ -108,7 +206,7 @@ A **conjugate acid** is the substance produced when **a Brønsted-Lowry base a
 
 $$\text{NH}_3(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{NH}_4^+(\text{aq}) + \text{OH}^-(\text{aq})$$
 
-## Amphiprotic Substances
+### Amphiprotic Substances
 
 Some substances can either donate or accept protons, depending on the substance they are reacting with. These substances are called amphiprotic substances.
 
@@ -118,55 +216,33 @@ The amphiprotic species will act as an acid when it reacts with a stronger base 
 
 Water is an amphiprotic substance because it can both receive a proton to form hydronium $\text{H}_3\text{O}^+$, and donate a proton to form hydroxide ion $\text{OH}^-$.
 
-## Classification of Acids
+### Classification of Acids
 
-### Monoprotic Acids
+#### Monoprotic Acids
 
 **Monoprotic acids can donate only one proton**.
 
 These acids include hydrochloric acid $\text{HCl}$, hydrofluoric acid $\text{HF}$, nitric acid $\text{HNO}_3$ and ethanoic acid $\text{CH}_3\text{COOH}$.
 
-### Polyprotic Acids
+#### Polyprotic Acids
 
 **Acids that can donate more than one proton** from each molecule are called **polyprotic acids**. The number of hydrogen ions an acid can donate depends on the structure of the acid.
 
 Polyprotic acids **do not donate all of their protons at once**, but do so in steps when reacting with a base.
 
-#### Diprotic Acids
+##### Diprotic Acids
 
 **Diprotic acids can donate two protons**. These include sulphuric acid $\text{H}_2\text{SO}_4$, and carbonic acid $\text{H}_2\text{CO}_3$, 
 
 A diprotic acid **dissociates in two stages**.
 
-#### Triprotic Acids
+##### Triprotic Acids
 
 **Triprotic acids can donate three protons**. These include phosphoric acid $\text{H}_3\text{PO}_4$ and boric acid $\text{H}_3\text{BO}_3$.
 
 A triprotic acid **dissociates in three stages**.
 
-## Chemical Reactions
-
-### Double Displacement Reactions
-
-Acid-base ionic reactions are known as double displacement reactions; being a reaction that starts and ends with the same number of substances. However, an atom or an ion in one or both compounds is displaced.
-
-$$\text{AB}+\text{CD}\to \text{AD}+\text{BC}$$
-
-### Neutralisation Reactions
-
-$$\text{acid} + \text{base} \rightarrow \text{salt} + \text{water}$$
-
-Most neutralisation reactions go to completion, however **the reaction between a weak acid and a weak base is reversible**.
-
-### Acid-Metal Reactions
-
-$$\text{acid} + \text{metal} \rightarrow \text{salt} + \text{hydrogen gas}$$
-
-### Acid-Carbonate Reactions
-
-$$\text{acid} + \text{carbonate} \rightarrow \text{salt} + \text{water} + \text{carbon dioxide}$$
-
-## Strength of Acids and Bases
+### Strength of Acids and Bases
 
 The Brønsted-Lowry theory defines the strength of an acid as its **ability to donate protons to a base**.
 
@@ -176,25 +252,25 @@ The Brønsted-Lowry theory defines the strength of an acid as its **ability to d
 | Sulphuric acid    | Carbonic acid   | Potassium hydroxide | Pyridine      |
 | Nitric acid       | Phosphoric acid | Calcium hydroxide   | Dimethylamine |
 
-### Strong Acids and Bases
+#### Strong Acids and Bases
 
 **Strong acids and bases can fully dissociate in water**.
 
 Both The single reaction arrow in each equation above indicates that the dissociation reaction is complete.
 
-### Weak Acids and Bases
+#### Weak Acids and Bases
 
 Weak acids and bases can only **partially dissolve in water**.
 
 Reversible arrow is used in the dissociation equation.
 
-### Strength and Concentration
+#### Strength and Concentration
 
 Concentration refers to the amount of ions presenting in the solution, however the strength refers to how much the acid or base can dissociate in water.
 
-![[strength and concentration.png]]
+![strength-and-concentration](../images/strength-and-concentration.png)
 
-### Acidity of Salt
+#### Acidity of Salt
 
 When a **strong acid** reacts with a **weak base**, an **acidic salt** is formed.
 
@@ -202,17 +278,17 @@ When a **weak acid** reacts with a **strong base**, an **basic salt** is formed.
 
 When a **strong acid** reacts with a **strong base**, an **neutral salt** is formed.
 
-## pH Indicators
+### pH Indicators
 
 pH indicators are chemicals that provide qualitative information on a solution's pH. They change colour as the pH of a solution changes.
 
-![[images/indicators.png]]
+![indicators](../images/indicators.png)
 
 Indicators are **weak acids**, hence only small amount of indicator should be added when using.
 
-# Quantitative Analysis of Acids and Bases
+## Quantitative Analysis of Acids and Bases
 
-## Ionic Product of Water
+### Ionic Product of Water
 
 Pure water displays **amphiprotic properties** because it undergoes the self-ionisation.
 
@@ -222,9 +298,9 @@ $${\text{H}_2\text{O}}\text{(l)}+{\text{H}_2\text{O}}\text{(l)}\rightleftharpoon
 
 $$K_w=[{\text{H}_3\text{O}}^+][{\text{OH}}^-]=1.0\times 10^{-14}$$
 
-## Acidity and Basicity
+### Acidity and Basicity
 
-### pH Scale
+#### pH Scale
 
 The acidity of a solution is measured by pH which stands for the potential of hydrogen.
 
@@ -234,7 +310,7 @@ $$\text{pH}=-\log_{10}[\text{H}_3\text{O}^+]$$
 
 $$[{\text{H}_3\text{O}}^+]=10^{-\text{pH}}$$
 
-### pOH Scale
+#### pOH Scale
 
 The basicity of a solution can be measured with pOH.
 
@@ -244,9 +320,9 @@ $$\text{pOH}=-\log_{10}{[{\text{OH}}^-]}$$
 
 $$[{\text{OH}}^-]=10^{-\text{pOH}}$$
 
-## Dissociation Constant
+### Dissociation Constant
 
-### $K_a$ and $K_b$
+#### $K_a$ and $K_b$
 
 The **strength of weak acids and bases** can be measured and quantified by the **equilibrium constant of their dissociation** reaction as their dissociation reactions are equilibrium reactions.
 
@@ -254,7 +330,7 @@ The dissociation constant of weak acids is notated as $K_a$, and $K_b$ for weak 
 
 $K_w$ is the product of $K_a$ and $K_b$.
 
-### $pK_a$ and $pK_b$
+#### $pK_a$ and $pK_b$
 
 $pK_a$ and $pK_b$ are also defined as the dissociation constant of weak acids and bases.
 
@@ -264,7 +340,7 @@ $$pK_a = - \log_{10}(K_a)$$
 
 $$pK_b = - \log_{10}(K_b)$$
 
-### Dissociation Constant and Strength
+#### Dissociation Constant and Strength
 
 |                         | Weak Acid     | Conjugate Weak Base |
 | ----------------------- | ------------- | ------------------- |
@@ -309,7 +385,7 @@ Examples of **good standard solutions**:
 
 #### Making Standard Solution
 
-![[standard solution.png]]
+![standard-solution](../images/standard-solution.png)
 
 Step 1: **Calculate** and **weigh** the correct quantity of the substance using an **electrical balance** in a small beaker.
 
@@ -360,7 +436,7 @@ The “end point” can be used to approximate the equivalence point provided th
 
 ##### Setup
 
-![[titration setup.png]]
+![titration-setup](../images/titration-setup.png)
 
 **Place the conical flask on a white tile** for a better visualisation of the indicator's endpoint.
 
@@ -411,7 +487,7 @@ The pH value of the analyte solution is measured using the **pH probe**.
 
 The equivalence point of the titration can be determined by looking at the **inflection point** on the titration curve.
 
-![[ph titration curve.png]]
+![ph-titration-curve](../images/ph-titration-curve.png)
 
 Type 1: **Strong Acid and Strong Base**
 
@@ -446,7 +522,7 @@ The buffer region can be identified at the beginning of the pH titration, where 
 
 The rate of change in pH increases as more acids or bases is added as it surpasses the buffer capacity, which is **a buffer's effectiveness in minimising changes in pH**.
 
-![[buffer regions.png]]
+![buffer-regions](../images/buffer-regions.png)
 
 #### Conductometric Titration
 
@@ -462,7 +538,7 @@ The strength of acids and bases influence the rate and shape of the titration cu
 
 Type 1: **Strong Acid + Strong Base**
 
-![[cond. strong+strong.jpg]]
+![cond.-strong+weak](../images/cond.-strong+weak.jpg)
 
 - The initial conductivity of the solution is **relatively high** because the **fully dissociation of the strong acid**.
 - As the strong base is added, **the concentration of hydrogen ions decreases due to the neutralisation between acids and bases**.
@@ -471,7 +547,7 @@ Type 1: **Strong Acid + Strong Base**
 
 Type 2: **Strong Acid + Weak Base**
 
-![[cond. strong+weak.jpg]]
+![cond.-strong+weak](../images/cond.-strong+weak.jpg)
 
 - The initial conductivity of the solution is **relatively high** because the **strong acid completely dissociates** to produce a relatively **large concentration of hydrogen ions**.
 - As the weak base is added, **the concentration of hydrogen ions decreases due to the neutralisation between acids and bases**.
@@ -481,7 +557,7 @@ Type 2: **Strong Acid + Weak Base**
 
 Type 3: **Weak Acid + Strong Base**
 
-![[cond. weak+strong.jpg]]
+![cond.-weak+strong](../images/cond.-weak+strong.jpg)
 
 - The initial conductivity of the solution is **relatively low** because the **weak acid partially dissociates** to produce a **relatively small amount of hydrogen ions**.
 - As strong base is added, it **neutralises the small number of hydrogen ions** present in solution, leading to a **small reduction in conductivity**.
@@ -490,7 +566,7 @@ Type 3: **Weak Acid + Strong Base**
 
 Type 4: **Weak Acid + Weak Base**
 
-![[cond. weak+weak.jpg]]
+![cond.-weak+weak](../images/cond.-weak+weak.jpg)
 
 - The initial conductivity is **relatively low** because acetic acid is a **weak acid that partially dissociates** to produce a **relatively small concentration of hydrogen ions**.
 - As the weak base is added, it **neutralises with the small number of hydrogen ions** present in solution, leading to a **small reduction in conductivity**.
@@ -498,7 +574,7 @@ Type 4: **Weak Acid + Weak Base**
 - After the **equivalence point**, the **conductivity of the solution increases at a faster rate** due to the **increase in concentration of hydroxide ions** as all hydrogen ions have been neutralised. However, this rate is still low as the weak base can only partially dissociate in water.
 - Eventually the line is **horizontal** as the increase in hydroxide ions is too small to influence the conductivity.
 
-# Buffers
+## Buffers
 
 A buffer is a chemical system that **resists changes in pH when a small amount of acid or base is added**.
 
@@ -508,7 +584,7 @@ A buffer contains either:
 
 **Strong acids and strong bases cannot be used to make buffers** as they completely ionise in water.
 
-## Actions of Buffers
+### Actions of Buffers
 
 Ethanoic acid/ethanoate buffer is a buffer system that can help minimise change in pH when a small amount of acid/base is added.
 
@@ -516,7 +592,7 @@ The pH value will change to a small extent, but not much because the existence o
 
 $${\text{CH}_3\text{COOH}}\text{(aq)}+{\text{H}_2\text{O}}\text{(l)} \rightleftharpoons {\text{CH}_3\text{COO}^-}\text{(aq)}+{{\text{H}_3\text{O}}^+}\text{(aq)}$$
 
-### Adding Acids
+#### Adding Acids
 
 When a small amount of acid is added, **a buffer minimises the decrease in pH**.
 
@@ -530,7 +606,7 @@ Some hydronium ions will react with ethanoate ions in the buffer solution, **dec
 
 As **the concentration of hydronium ions remains relatively constant**, pH value of the system is controlled. 
 
-### Adding Bases
+#### Adding Bases
 
 When a base is added into a buffer solution, the base will dissociate in water **forming hydroxide ions**.
 
@@ -542,7 +618,7 @@ Some water will react with the ethanoic acid in the buffer solution, **increase 
 
 As **the concentration of hydronium ions remains relatively constant**, pH value of the system is controlled. 
 
-## Buffer Capacity
+### Buffer Capacity
 
 Buffering capacity is **a buffer's effectiveness in minimising changes in pH** when an acid or base is added.
 
@@ -552,11 +628,11 @@ Buffer capacity is the greatest when
 1. There is a **high concentration** of the weak acid and its conjugate base.
 2. The **concentration of the acid and its conjugate base are equal**.
 
-## Natural Buffer Systems
+### Natural Buffer Systems
 
-### Biological Buffer Systems
+#### Biological Buffer Systems
 
-#### Carbonic Acid Buffer System
+##### Carbonic Acid Buffer System
 
 **Carbonic acid buffer** controls **the blood pH** in the human body.
 
@@ -570,7 +646,7 @@ According to Le Chatelier's Principle, if additional hydronium ions enter the bl
 
 If addition hydroxide ions enter the blood, they will react with ${\text{H}_2\text{CO}_3}$, minimising the effect on hydronium ion concentration and maintaining pH value.
 
-#### Phosphate Buffer System
+##### Phosphate Buffer System
 
 **Phosphate buffer** controls **the pH value of the internal fluid** of all cells.
 
@@ -584,13 +660,13 @@ According to Le Chatelier's Principle, if additional hydronium ions enter the ce
 
 If addition hydroxide ions enter the blood, they will react with ${{\text{H}_2\text{PO}_4}^-}$, minimising the effect on hydronium ion concentration and maintaining pH value.
 
-### Environmental Buffer Systems
+#### Environmental Buffer Systems
 
-#### Soil Acidity
+##### Soil Acidity
 
 **The pH value of soils is controlled by complex buffering system** involving carbonate, hydrogen carbonates and phosphates as well as organic acids.
 
-#### Ocean Acidity
+##### Ocean Acidity
 
 **Ocean acidification is caused by the over emission of greenhouse gas - carbon dioxide**.
 
