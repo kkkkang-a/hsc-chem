@@ -38,7 +38,7 @@ $$\ce{H+(aq) + OH-(aq) -> H2O(l)}$$
 
 Arrhenius also notated that the most reactive acids also had the highest electrical conductivities. This has led to the concept that the strongest acids are the most dissociated in an aqueous solution.
 
-**Limitation**:
+#### Limitations of Arrhenius' Theory
 
 1. Arrhenius’ definition does not explain the basic behaviour of substances like ammonia $\ce{NH3}$, which do not contain hydroxide ions in their formulae and hence should not be able to produce $\ce{OH-}$.
 2. Arrhenius could not explain why certain compounds such as metal oxides and metal carbonates, do not contain hydroxide ions, despite displaying basic properties.
@@ -67,7 +67,17 @@ Water can act has both an acid (proton donors) and a base (proton acceptors).
 
 According to the Brønsted-Lowry theory, an acid-base reaction occurs when there is a transfer of proton(s) from the acid to the base. This can occur in non-aqueous states.
 
-**Limitation**:
+#### Advantages of Brønsted-Lowry Theory
+
+- It explains the basic property of substances that do not contain hydroxide ions.
+- It expands the role of water in acid-base reactions as more than just a solvent.
+- It can be expanded to include solvents other than water and reactions that occur in non-aqueous states.
+- It links acids and bases into conjugate acid-base pairs. This concept
+    - explains the acidity and basicity of acidic and basic salts respectively
+    - explains the relative strengths of acids and bases according to the strength of their conjugate partner
+- It explains the acidic and basic properties of amphiprotic substances.
+
+#### Limitations of Brønsted-Lowry Theory
 
 Brønsted-Lowry theory does not explain the acidity of acidic oxides and basicity of basic oxides, and the reactions between acidic and basic oxides as they do not involve proton transfer.
 
@@ -139,6 +149,34 @@ The '-ic' suffix indicates more oxygen is present in the compound than for the
 | Phosphorus      | $\ce{H3PO4}$ (Phosphoric acid)                | $\ce{H3PO3}$ (Phosphorous acid)              |
 | Sulfur          | $\ce{H2SO4}$ (Sulfuric acid)                  | $\ce{H2SO3}$ (Sulfurous acid)                |
 
+
+### Classification of Acids
+
+#### Monoprotic Acids
+
+Monoprotic acids can donate only one proton.
+
+These acids include hydrochloric acid $\ce{HCl}$, hydrofluoric acid $\ce{HF}$ nitric acid $\ce{HNO3}$ and ethanoic acid $\ce{CH3COOH}$.
+
+#### Polyprotic Acids
+
+Acids that can donate more than one proton from each molecule are called polyprotic acids. The number of hydrogen ions an acid can donate depends on the structure of the acid.
+
+Polyprotic acids do not donate all of their protons at once, but do so in steps when reacting with a base.
+
+- Diprotic acids can donate two protons. These include sulphuric acid $\ce{H2SO4}$, and carbonic acid $\ce{H2CO3}$. A diprotic acid dissociates in two stages.
+- Triprotic acids can donate three protons. These include phosphoric acid $\ce{H3PO4}$ and boric acid $\ce{H3BO3}$. A triprotic acid dissociates in three stages.
+
+### pH Indicators
+
+Indicators are a category of substances which give a qualitative indication of the pH of a solution
+
+pH indicators are chemicals that provide qualitative information on a solution's pH. They change colour as the pH of a solution changes.
+
+![indicators](../images/indicators.png)
+
+Most indicators are organic weak acids or weak bases, hence, the equilibrium mixture of indicator can change its colour by shifting the equilibrium position based on the acid/base added to the mixture.
+
 ### Chemical Reactions
 
 Acid-base ionic reactions are known as double displacement reactions; being a reaction that starts and ends with the same number of substances. However, an atom or an ion in one or both compounds is displaced.
@@ -196,95 +234,155 @@ Carbonates and hydrogen carbonates are not considered as bases in the Arrhenius 
 
 The Brønsted-Lowry theory introduces the concept of acid-base conjugate pairs.
 
-A conjugate acid-base pair is two molecules or ions that **differ by one proton** $\text{H}^+$.
+A conjugate acid-base pair is two molecules or ions that differ by one proton $\ce{H+}$.
 
-A **conjugate base** is the substance produced when **a Brønsted-Lowry acid deprotonated**.
+- A conjugate base is the substance produced when a Brønsted-Lowry acid deprotonates. When acid $\ce{HF}$ ionises in water, it forms its conjugate base, $\ce{F-}$.
+  $$\ce{HF(aq) + H2O(l) <=> H3O+(aq) + F-(aq)}$$
 
-$$\text{HF(aq)} + \text{H}_2\text{O(l)} \rightleftharpoons \text{H}_3\text{O}^+(\text{aq}) + \text{F}^-(\text{aq})$$
+- A conjugate acid is the substance produced when a Brønsted-Lowry base accepts a proton. When base $\ce{NH3}$ ionises in water, it forms its conjugate acid $\ce{NH4+}$. $$\ce{NH3(aq) + H2O(l) <=> NH4+(aq) + OH-(aq)}$$
 
-A **conjugate acid** is the substance produced when **a Brønsted-Lowry base accepts a proton**.
+The acid-conjugate-base concept only applies to weak acids because the deprotonated anion of strong acids e.g. $\ce{Cl-}$ has very little to no tendency of accepting a proton.
 
-$$\text{NH}_3(\text{aq}) + \text{H}_2\text{O}(\text{l}) \rightleftharpoons \text{NH}_4^+(\text{aq}) + \text{OH}^-(\text{aq})$$
+#### Relative Strength of Conjugate Pairs
+
+The two species in a conjugate pair have inverse strength. A strong acid will have an extremely weak (virtually neutral) conjugate base (e.g. $\ce{HCl}$ and $\ce{Cl-}$), and vice versa.
+
+- A strong acid has an equilibrium which lies far to the right: in essence, it has virtually no reverse reaction.
+
+$$
+\begin{gather*}
+    \bbox[5px, border: 2px solid orange]{
+        \bbox[5px, border: 2px solid red]{\text{Strong BL Acid}}
+        \text{ + Water}
+    }
+    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+        \text{Hydronium} + \bbox[5px, border: 2px solid green]{\text{Weak BL Base}}
+    } \\
+    \bbox[5px, border: 2px solid orange]{
+        \bbox[5px, border: 2px solid red]{\ce{HCl(aq)}} \ce{+H2O(l)}
+    }
+    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+        \ce{H3O+(aq) +}\bbox[5px, border: 2px solid green]{\ce{Cl-(aq)}}
+    } \\
+    \bbox[5px, border: 2px solid orange]{0\%} \ce{<=>} \bbox[5px, border: 2px solid pink]{100\%}
+\end{gather*}
+$$
+
+- A weak acid has an extremely strong conjugate base, and so the equilibrium lies far to the left.
+
+$$
+\begin{gather*}
+    \bbox[5px, border: 2px solid orange]{
+        \bbox[5px, border: 2px solid red]{\text{Weak BL Acid}}
+        \text{ + Water}
+    }
+    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+        \text{Hydronium} + \bbox[5px, border: 2px solid green]{\text{Strong BL Base}}
+    } \\
+    \bbox[5px, border: 2px solid orange]{
+        \bbox[5px, border: 2px solid red]{\ce{HF(aq)}} \ce{+H2O(l)}
+    }
+    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+        \ce{H3O+(aq) +}\bbox[5px, border: 2px solid green]{\ce{F-(aq)}}
+    } \\
+    \bbox[5px, border: 2px solid orange]{92\%} \ce{<=>} \bbox[5px, border: 2px solid pink]{8\%}
+\end{gather*}
+$$
 
 ### Amphiprotic Substances
 
 Some substances can either donate or accept protons, depending on the substance they are reacting with. These substances are called amphiprotic substances.
 
-**Amphiprotic substances can behave as either an acid or a base**.
+Amphiprotic species are ones that can act either as acids or bases. They can either gain or lose a proton.
 
-The amphiprotic species will act as an acid when it reacts with a stronger base or it will act as a base if reacted with a stronger acid.
+The amphiprotic species will:
+- act as an acid when it reacts with a stronger base
+- act as a base if reacted with a stronger acid
 
-Water is an amphiprotic substance because it can both receive a proton to form hydronium $\text{H}_3\text{O}^+$, and donate a proton to form hydroxide ion $\text{OH}^-$.
+**Examples**:
 
-### Classification of Acids
+Water is an amphiprotic substance.
+- It acts as an acid to receive a proton to form hydronium $\ce{H3O+}$.
+- It acts as a base to donate a proton to form hydroxide ion $\ce{OH-}$.
 
-#### Monoprotic Acids
+Hydrogen carbonate ion $\ce{HCO3–}$ is amphiprotic salt.
+- It acts as an acid when it reacts with a stronger base: $\ce{HCO3-(aq) + OH-(aq) -> CO3^{2-}(aq) + H2O(l)}$
+- It acts as a base when it reacts with a stronger acid: $\ce{HCO3-(aq) + H3O+(aq) -> H2CO3(aq) + H2O(l)}$
 
-**Monoprotic acids can donate only one proton**.
+### Acid and Base Strength
 
-These acids include hydrochloric acid $\text{HCl}$, hydrofluoric acid $\text{HF}$, nitric acid $\text{HNO}_3$ and ethanoic acid $\text{CH}_3\text{COOH}$.
+Strength describes the percentage of acid molecules that ionise whilst concentration describes the number of acid molecules (ionised and unionised) per volume of solvent.
 
-#### Polyprotic Acids
+Strength of acids and bases are dependent on their degree of ionisation. In the Brønsted-Lowry theory of acid and bases, the degree of ionisation is also referred to as the degree of deprotonation (acids) or protonation (bases).
 
-**Acids that can donate more than one proton** from each molecule are called **polyprotic acids**. The number of hydrogen ions an acid can donate depends on the structure of the acid.
+In Arrhenius Theory:
+- Strong acids completely dissociate in water to produce hydrogen ions.
+- Strong bases completely dissociate in water to produce hydroxide ions.
 
-Polyprotic acids **do not donate all of their protons at once**, but do so in steps when reacting with a base.
-
-##### Diprotic Acids
-
-**Diprotic acids can donate two protons**. These include sulphuric acid $\text{H}_2\text{SO}_4$, and carbonic acid $\text{H}_2\text{CO}_3$, 
-
-A diprotic acid **dissociates in two stages**.
-
-##### Triprotic Acids
-
-**Triprotic acids can donate three protons**. These include phosphoric acid $\text{H}_3\text{PO}_4$ and boric acid $\text{H}_3\text{BO}_3$.
-
-A triprotic acid **dissociates in three stages**.
-
-### Strength of Acids and Bases
-
-The Brønsted-Lowry theory defines the strength of an acid as its **ability to donate protons to a base**.
-
-| Strong Acids      | Weak Acids      | Strong Bases        | Weak Bases    |
-| ----------------- | --------------- | ------------------- | ------------- |
-| Hydrochloric acid | Ethanoic acid   | Sodium hydroxide    | Ammonia       |
-| Sulphuric acid    | Carbonic acid   | Potassium hydroxide | Pyridine      |
-| Nitric acid       | Phosphoric acid | Calcium hydroxide   | Dimethylamine |
-
-#### Strong Acids and Bases
-
-**Strong acids and bases can fully dissociate in water**.
-
-Both The single reaction arrow in each equation above indicates that the dissociation reaction is complete.
-
-#### Weak Acids and Bases
-
-Weak acids and bases can only **partially dissolve in water**.
-
-Reversible arrow is used in the dissociation equation.
-
-#### Strength and Concentration
+In Brønsted-Lowry Theory:
+- Strong acids completely deprotonate and react with water to produce the maximum concentration of hydronium ions.
+- Strong bases completely protonate and react with water to produce the maximum concentration of hydroxide ions.
 
 Concentration refers to the amount of ions presenting in the solution, however the strength refers to how much the acid or base can dissociate in water.
 
 ![strength-and-concentration](../images/strength-and-concentration.png)
 
-#### Acidity of Salt
+#### Strong Acids and Bases
 
-When a **strong acid** reacts with a **weak base**, an **acidic salt** is formed.
+Strong acids and bases can fully dissociate in water. Since the dissociation/ionisation of a strong acid is complete, its chemical equation is written with a single-direction arrow.
 
-When a **weak acid** reacts with a **strong base**, an **basic salt** is formed.
+#### Weak Acids and Bases
 
-When a **strong acid** reacts with a **strong base**, an **neutral salt** is formed.
+Weak acids and bases can only partially dissolve in water. This is because that their conjugate bases are able to re-gain protons to reform the weak acids. The ionisation of a weak acid is reversible.
 
-### pH Indicators
+The same concept applies to weak bases and their conjugate acids.
 
-pH indicators are chemicals that provide qualitative information on a solution's pH. They change colour as the pH of a solution changes.
+Since the ionisation of weak acids and bases in water are reversible, they can reach a dynamic equilibrium where the rate of forward and reverse reactions are equal.
 
-![indicators](../images/indicators.png)
+The dissociation/ionisation of a weak acid is incomplete (partial), its chemical equation is written with a reversible arrow.
 
-Indicators are **weak acids**, hence only small amount of indicator should be added when using.
+### Acidity of Salt
+
+Salts are ionic compounds produced from an acid-base reaction. Many salts, despite being neutrally charged, produce acidic and basic solutions when dissolved in water.
+- When a strong acid reacts with a weak base, an acidic salt is formed.
+- When a weak acid reacts with a strong base, an basic salt is formed.
+- When a strong acid reacts with a strong base, an neutral salt is formed.
+
+#### Acidic Salts
+
+Acidic salts are acidic because they contain conjugate acids of weak bases.
+
+An example of an acidic salt is ammonium chloride, which is formed from the neutralisation between hydrochloric acid and ammonia.
+
+$$\ce{HCl(aq) + NH3(aq) -> NH4Cl(aq)}$$
+
+Ammonium is the conjugate acid of ammonia (weak base). Ammonium ions are Brønsted-Lowry acids as they donate protons to water.
+
+$$\ce{NH4+(aq) + H2O(l) <=> NH3(aq) + H3O+(aq)}$$
+
+The production of hydronium ions causes a solution of ammonium chloride to become acidic. Chloride ions are spectator ions and thus do not contribute to the pH of the solution.
+
+Acidic salts such as ammonium chloride are not Arrhenius acids as they do not contain and dissociate to produce hydrogen ions.
+
+#### Basic Salts
+
+Basic salts are basic because they contain conjugate bases of weak acids.
+
+An example of a basic salt is sodium acetate, which is formed from the neutralisation between acetic acid and sodium hydroxide.
+
+$$\ce{CH3COOH(aq) + NaOH(aq) -> NaCH3COOH(aq) + H2O(l)}$$
+
+Acetate is the conjugate base of acetic acid (weak acid). Acetate ions are Brønsted-Lowry bases as they accept proton from water.
+
+$$\ce{CH3COO-(aq) + H2O(l) <=> CH3COOH(aq) + OH-(aq)}$$
+
+The production of hydroxide ions causes a solution of sodium acetate to become basic. Sodium ions are spectator ions and thus do not contribute to the pH of the solution.
+
+Basic salts such as sodium acetate are not Arrhenius bases as they do not contain and dissociate to produce hydroxide ions.
+
+#### Neutral Salts
+
+Neutral salts are neutral because they contain neither of conjugate acids of weak bases or conjugate bases of weak bases.  Neutral salts are typically formed from neutralisation between strong acids and strong bases.
 
 ## Quantitative Analysis of Acids and Bases
 
