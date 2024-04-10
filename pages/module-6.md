@@ -245,48 +245,48 @@ The acid-conjugate-base concept only applies to weak acids because the deproto
 
 #### Relative Strength of Conjugate Pairs
 
-The two species in a conjugate pair have inverse strength. A strong acid will have an extremely weak (virtually neutral) conjugate base (e.g. $\ce{HCl}$ and $\ce{Cl-}$), and vice versa.
+The two species in a conjugate pair have inverse strength. A strong acid will have an extremely weak (virtually neutral) conjugate base, e.g. $\ce{HCl}$ and $\ce{Cl-}$, and vice versa.
 
 - A strong acid has an equilibrium which lies far to the right: in essence, it has virtually no reverse reaction.
 
 $$
-\begin{gather*}
+\begin{align}
     \bbox[5px, border: 2px solid orange]{
         \bbox[5px, border: 2px solid red]{\text{Strong BL Acid}}
         \text{ + Water}
     }
-    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+    &\ce{<=>} \bbox[5px, border: 2px solid pink]{
         \text{Hydronium} + \bbox[5px, border: 2px solid green]{\text{Weak BL Base}}
     } \\
     \bbox[5px, border: 2px solid orange]{
         \bbox[5px, border: 2px solid red]{\ce{HCl(aq)}} \ce{+H2O(l)}
     }
-    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+    &\ce{<=>} \bbox[5px, border: 2px solid pink]{
         \ce{H3O+(aq) +}\bbox[5px, border: 2px solid green]{\ce{Cl-(aq)}}
     } \\
-    \bbox[5px, border: 2px solid orange]{0\%} \ce{<=>} \bbox[5px, border: 2px solid pink]{100\%}
-\end{gather*}
+    \bbox[5px, border: 2px solid orange]{0\%} &\ce{<=>} \bbox[5px, border: 2px solid pink]{100\%}
+\end{align}
 $$
 
 - A weak acid has an extremely strong conjugate base, and so the equilibrium lies far to the left.
 
 $$
-\begin{gather*}
+\begin{align}
     \bbox[5px, border: 2px solid orange]{
         \bbox[5px, border: 2px solid red]{\text{Weak BL Acid}}
         \text{ + Water}
     }
-    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+    &\ce{<=>} \bbox[5px, border: 2px solid pink]{
         \text{Hydronium} + \bbox[5px, border: 2px solid green]{\text{Strong BL Base}}
     } \\
     \bbox[5px, border: 2px solid orange]{
         \bbox[5px, border: 2px solid red]{\ce{HF(aq)}} \ce{+H2O(l)}
     }
-    \ce{<=>} \bbox[5px, border: 2px solid pink]{
+    &\ce{<=>} \bbox[5px, border: 2px solid pink]{
         \ce{H3O+(aq) +}\bbox[5px, border: 2px solid green]{\ce{F-(aq)}}
     } \\
-    \bbox[5px, border: 2px solid orange]{92\%} \ce{<=>} \bbox[5px, border: 2px solid pink]{8\%}
-\end{gather*}
+    \bbox[5px, border: 2px solid orange]{92\%} &\ce{<=>} \bbox[5px, border: 2px solid pink]{8\%}
+\end{align}
 $$
 
 ### Amphiprotic Substances
