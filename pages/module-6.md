@@ -250,7 +250,7 @@ The two species in a conjugate pair have inverse strength. A strong acid will ha
 - A strong acid has an equilibrium which lies far to the right: in essence, it has virtually no reverse reaction.
 
 $$
-\begin{align}
+\begin{aligned}
     \bbox[5px, border: 2px solid orange]{
         \bbox[5px, border: 2px solid red]{\text{Strong BL Acid}}
         \text{ + Water}
@@ -265,13 +265,13 @@ $$
         \ce{H3O+(aq) +}\bbox[5px, border: 2px solid green]{\ce{Cl-(aq)}}
     } \\
     \bbox[5px, border: 2px solid orange]{0\%} &\ce{<=>} \bbox[5px, border: 2px solid pink]{100\%}
-\end{align}
+\end{aligned}
 $$
 
 - A weak acid has an extremely strong conjugate base, and so the equilibrium lies far to the left.
 
 $$
-\begin{align}
+\begin{aligned}
     \bbox[5px, border: 2px solid orange]{
         \bbox[5px, border: 2px solid red]{\text{Weak BL Acid}}
         \text{ + Water}
@@ -286,7 +286,7 @@ $$
         \ce{H3O+(aq) +}\bbox[5px, border: 2px solid green]{\ce{F-(aq)}}
     } \\
     \bbox[5px, border: 2px solid orange]{92\%} &\ce{<=>} \bbox[5px, border: 2px solid pink]{8\%}
-\end{align}
+\end{aligned}
 $$
 
 ### Amphiprotic Substances
