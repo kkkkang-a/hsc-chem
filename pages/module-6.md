@@ -596,7 +596,7 @@ The strength of acids and bases influence the rate and shape of the titration cu
 
 Type 1: **Strong Acid + Strong Base**
 
-![cond.-strong+weak](../images/cond.-strong+weak.jpg)
+![cond.-strong+weak](../images/cond.-strong+strong.jpg)
 
 - The initial conductivity of the solution is relatively high because the fully dissociation of the strong acid.
 - As the strong base is added, the concentration of hydrogen ions decreases due to the neutralisation between acids and bases.
@@ -629,7 +629,7 @@ Type 4: **Weak Acid + Weak Base**
 - The initial conductivity is relatively low because acetic acid is a weak acid that partially dissociates to produce a relatively small concentration of hydrogen ions.
 - As the weak base is added, it neutralises with the small number of hydrogen ions present in solution, leading to a small reduction in conductivity.
 - After the initial number of hydrogen ions are neutralised, the dissociation of weak acid is favoured according to the Le Chatelier's Principle, producing more hydrogen ions, result in an increase in conductivity.
-- After the equivalence point, the conductivity of the solution increases at a faster rate due to the increase in concentration of hydroxide ions as all hydrogen ions have been neutralised. However, this rate is still low as the weak base can only partially dissociate in water.
+- After the equivalence point, the conductivity of the solution increases due to the increase in concentration of hydroxide ions as all hydrogen ions have been neutralised. However, this rate is low as the weak base can only partially dissociate in water.
 - Eventually the line is horizontal as the increase in hydroxide ions is too small to influence the conductivity.
 
 ## Buffers
