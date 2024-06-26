@@ -115,9 +115,9 @@ When the volume is increased and pressure is decreased, the partial pressures of
 
 #### Change in Temperature
 
-A higher temperature (greater energy) means particles move quicker at greater kinetic energy. This in turn increases the collision rate between them. If the energy is increased, both the rate of forward and reverse directions is increased. However, the percentage of particles able to react in the endothermic direction (requires higher activation energy), is higher than in the exothermic direction (requires lower activation energy).
+A higher temperature (greater energy) means particles move quicker at greater kinetic energy. This in turn increases the collision rate between them. If the energy is increased, both the rate of forward and reverse directions is increased. However, the percentage of particles able to react in the endothermic direction (requires higher activation energy), is higher than in the exothermic direction (requires lower activation energy).
 
-An increase in temperature will have a greater effect on the endothermic reaction than the exothermic reaction, and vice versa.
+An increase in temperature will have a greater effect on the endothermic reaction than the exothermic reaction, and vice versa.
 
 ![temperature-distribution](../images/temperature-distribution.png)
 
@@ -357,7 +357,7 @@ The temperature and pressure should be carefully chosen to obtain a balance betw
 
 #### Haber Processes
 
-The Haber Process combines nitrogen from the air with hydrogen derived mainly from natural gas (methane) into ammonia.
+The Haber Process combines nitrogen from the air with hydrogen derived mainly from natural gas (methane) into ammonia.
 
 $$\ce{N2(g) + 3H2(g) <=> 2NH3(g) \Delta H < 0}$$
 

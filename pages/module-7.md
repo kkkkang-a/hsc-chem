@@ -1,10 +1,12 @@
-# Organic Substances
+# Module 7: Organic Chemistry
+
+## Organic Substances
 
 All life on Earth is based on compounds of carbon, usually in an aqueous environment
 
 Organic chemistry involves the study of organic substances. Organic substances are compounds that contain **carbon atoms**.
 
-## Carbon Atoms
+### Carbon Atoms
 
 **Carbon forms the fundamental building block for many organic substances** found in living organisms.
 
@@ -21,7 +23,7 @@ The stability of a carbon bond is determined by the bond energy of the covalent 
 
 Strength of bond energy: **hydrogen bonds > dipole-dipole attractions > dispersion forces**.
 
-## Classification of Organic Substances
+### Classification of Organic Substances
 
 Organic substances can be grouped into functional groups and homologous series. 
 
@@ -33,11 +35,11 @@ Organic substances can also be classified as saturated molecules or unsaturated 
 - **Saturated molecule**: **all carbon bonds are single bonds**, or carbon atoms bond with the maximum number of atoms.
 - **Unsaturated molecule**: **at least one double or triple bond**.
 
-## IPUAC Nomenclature
+### IPUAC Nomenclature
 
 IUPAC nomenclature is **based on naming a molecule's longest chain of carbons connected by single bonds**, whether in a continuous chain or in a ring.
 
-### General Naming Method
+#### General Naming Method
 
 1. **Identify the parent molecule name** by finding the **longest carbon chain**.
 2. **Identify all functional groups**.
@@ -46,7 +48,7 @@ IUPAC nomenclature is **based on naming a molecule's longest chain of carbons c
 5. **Number the functional groups** to indicate their position.
 6. Use **hyphens between numbers and words** and **commas between one number and another**.
 
-### Carbon Chains
+#### Carbon Chains
 
 | Numbers of C | Prefix Used | Numbers of C | Prefix Used |
 | ------------ | ----------- | ------------ | ----------- |
@@ -58,7 +60,7 @@ IUPAC nomenclature is **based on naming a molecule's longest chain of carbons c
 
 All deviations, either multiple bonds or atoms other than carbon and hydrogen, are **indicated by prefixes or suffixes** according to a specific set of priorities.
 
-### Functional Groups
+#### Functional Groups
 
 | Functional Group   | Prefix     | Suffix    |
 | ------------------ | ---------- | --------- |
@@ -81,17 +83,17 @@ The carbon that the functional group is attached should be numbered to indicate 
 
 If two or more **identical functional groups are present**, **specify using the prefix** 'di-', 'tri-' or 'tetra-'.
 
-## Structural Isomerism
+### Structural Isomerism
 
 Isomers are compounds which share the **same molecular formula but different structure**.
 
-### Chain Isomers
+#### Chain Isomers
 
 Chain isomers are molecules with the **same molecular formula**, but **different arrangement of its carbon chain**.
 
-![[images/chain-Isomers.png]]
+![chain-isomers](images/chain-Isomers.png)
 
-### Position Isomers
+#### Position Isomers
 
 Position isomers are molecules with the **same molecular formula and functional group**, but **the position of the functional group is different**.
 
@@ -99,7 +101,7 @@ The carbon chain needs to be long enough for the change of positions.
 
 ![position-Isomers](images/position-Isomers.png)
 
-### Functional Group Isomers
+#### Functional Group Isomers
 
 Functional group isomers are molecules with the **same molecular formula**, but **different functional groups**.
 
@@ -107,38 +109,38 @@ There are two common pairs of functional groups which can exhibit isomerism:
 - **Aldehydes and Ketones** ![functional-group-isomers-1](images/functional-group-isomers-1.png)
 - **Carboxylic Acids and Esters** ![functional-group-isomers-2](images/functional-group-isomers-2.png)
 
-# Hydrocarbons
+## Hydrocarbons
 
 Hydrocarbons are organic compounds that **consist of carbon and hydrogen atoms only**.
 
 In hydrocarbon molecules, carbon to carbon (C–C) and carbon to hydrogen (C–H) bonds are strong and unreactive.
 
-## Alkanes
+### Alkanes
 
-### Structure
+#### Structure
 
-![[images/alkane.png]]
+![](images/alkane.png)
 
 Alkanes are **saturated hydrocarbons** containing only **single carbon-carbon bonds** (C-C) and **carbon-hydrogen bonds** (C-H).
 
-Alkanes have a general formula: $\text{C}_n\text{H}_{2n+2}$.
+Alkanes have a general formula: $\ce{C_nH_{2n+2}}$.
 
 In alkanes, all carbons are connected to four atoms and therefore exist in a **tetrahedral shape** with a **109.5º angle** between bonds.
 
-![[alkane Shape.png]]
+![alkane-shape](../images/alkane-shape.png)
 
 **Types of alkanes**:
 - Straight-chain alkanes
 - Branched alkanes
 - Cycloalkanes
 
-#### Branched Alkanes (Alkyl Groups)
+##### Branched Alkanes (Alkyl Groups)
 
 Alkyl groups are hydrocarbon **branch groups** on a carbon chain. They are derived from alkanes with **one hydrogen removed**.
 
 Alkyl groups have a general formula: $\text{C}_n\text{H}_{2n+1}$.
 
-### Nomenclature
+#### Nomenclature
 
 Alkane names end with the **suffix '-ane'**.
 
@@ -151,17 +153,17 @@ The position of the alkyl group is specified with **a number before the name**.
 - eth**ane**
 - **2-methyl**prop**ane**
 
-### Properties
+#### Properties
 
-#### Intermolecular Forces
+##### Intermolecular Forces
 
 The only type of intermolecular force for alkanes is **dispersion forces**.
 
-#### Polarity
+##### Polarity
 
 Alkanes are **non-polar hydrocarbons** held together by the non-polar **dispersion forces**.
 
-#### Boiling and Melting Points
+##### Boiling and Melting Points
 
 Alkanes have relatively **low boiling and melting points**.
 
@@ -169,19 +171,19 @@ Alkanes have relatively **low boiling and melting points**.
 
 **Straight-chained alkanes have higher boiling points** than branched alkanes of equal molecular weight.
 
-#### Solubility
+##### Solubility
 
 **Alkanes are not soluble in water** as molecules are non-polar.
 
-### Chemical Reactions
+#### Chemical Reactions
 
-#### Combustion
+##### Combustion
 
 Alkanes can be **used as fuels** to undergo combustion reaction.
 
 $$\text{Alkane}+\text{O}_2\to \text{CO}_2+\text{H}_2\text{O}$$
 
-#### Substitution
+##### Substitution
 
 When an alkane react with halogens, **hydrogen atoms in the alkane molecule are substituted with halogen atoms**. This type of reaction is known as **substitution**.
 
@@ -191,13 +193,13 @@ $$\text{Alkane}+\text{Halogen}\xrightarrow {\text{UV Light}} \text{Haloalkane}+\
 
 If a halogen is supplied in excess, **alkane molecules will become completely substituted**.
 
-![[substitution of alkane.png]]
+![substitution-of-alkane](../images/substitution-of-alkane.png)
 
-## Alkenes
+### Alkenes
 
-### Structure
+#### Structure
 
-![[images/alkene.png]]
+![alkene](../images/alkene.png)
 
 Alkenes are **unsaturated hydrocarbons** containing **at least one carbon-carbon double bond** (C=C).
 
@@ -205,9 +207,9 @@ Alkenes have a general formula: $\text{C}_n\text{H}_{2n}$.
 
 Alkenes exist in a **trigonal planar shape** with a **120º angle** between bonds as it is connected to a total of 3 atoms with the presence of the C=C bond.
 
-![[alkene Shape.png]]
+![alkene-shape](../images/alkene-shape.png)
 
-### Nomenclature
+#### Nomenclature
 
 Alkene names end with the **suffix '-ene'**.
 
@@ -218,17 +220,17 @@ The position of the double bond is specified with **a number within the name**.
 - but**-1-ene**
 - but**-2-ene**
 
-### Properties
+#### Properties
 
-#### Intermolecular Forces
+##### Intermolecular Forces
 
 The only type of intermolecular force for alkenes is **dispersion forces**.
 
-#### Polarity
+##### Polarity
 
 Similar to alkane, alkenes are **non-polar** molecules.
 
-#### Boiling and Melting Points
+##### Boiling and Melting Points
 
 Alkenes have relatively **low boiling, melting points and solubility in water**
 
@@ -238,19 +240,19 @@ Alkenes have relatively **low boiling, melting points and solubility in water**
 
 **Straight-chained alkenes have higher boiling points** than branched alkanes of equal molecular weight.
 
-#### Solubility
+##### Solubility
 
 **Alkenes are not soluble in water** as molecules are non-polar.
 
-### Chemical Reactions
+#### Chemical Reactions
 
-#### Combustion
+##### Combustion
 
 Alkenes can be **used as fuels** to undergo combustion reaction.
 
 $$\text{Alkene}+\text{O}_2\to \text{CO}_2+\text{H}_2\text{O}$$
 
-#### Hydrogenation (Addition of Hydrogen)
+##### Hydrogenation (Addition of Hydrogen)
 
 Hydrogenation of an alkene **adds two hydrogen atoms across the double bond**. This creates an alkane molecule with the same number of carbon atoms.
 
@@ -260,7 +262,7 @@ Metal catalysts include: $\text{Pt}$ or $\text{Pd/C}$.
 
 $$\text{Alkene}+\text{H}_2\xrightarrow{\text{Metal Catalyst}} \text{Alkane}$$
 
-#### Halogenation (Addition of Halogens/Hydrogen Halides)
+##### Halogenation (Addition of Halogens/Hydrogen Halides)
 
 Halogenation of an alkene adds **two halogen atoms across the double bond**. This creates an alkane molecule with the same number of carbon atoms, but two new halogen atoms.
 
@@ -270,7 +272,7 @@ $$\text{Alkene}+\text{Halogen}\to\text{(di-)Haloalkane}$$
 
 $$\text{Alkene}+\text{Hydrogen Halide}\to\text{Haloalkane}$$
 
-#### Hydration (Addition of Water)
+##### Hydration (Addition of Water)
 
 Hydration of alkene adds **an hydroxy group across the double bond**. This transforms an alkene into an **alcohol**.
 
@@ -278,11 +280,11 @@ Hydration uses **water as a reactant**, **acid as a catalyst** and requires **he
 
 $$\text{Alkene}+\text{H}_2\text{O}\xrightarrow[\text{300ºC}]{\text{dil. }\text{H}_2\text{SO}_4}\text{Alcohol}$$
 
-## Alkynes
+### Alkynes
 
-### Structure
+#### Structure
 
-![[images/alkyne.png]]
+![alkyne](../images/alkyne.png)
 
 Alkynes are **unsaturated hydrocarbons** containing **at least one carbon-carbon triple bond** (C≡C).
 
@@ -290,9 +292,9 @@ Alkynes have a general formula is $\text{C}_n\text{H}_{2n-2}$.
 
 Alkynes exist in a **linear shape** with a **180º angle** between bonds as carbon atoms in a triple carbon-to-carbon bond are only connected to two atoms.
 
-![[alkyne Shape.png]]
+![alkyne-shape](../images/alkyne-shape.png)
 
-### Nomenclature
+#### Nomenclature
 
 Alkyne names end with the **suffix '-yne'**.
 
@@ -303,17 +305,17 @@ The position of the triple bond is specified with **a number within the name**.
 - but**-1-yne**
 - but**-2-yne**
 
-### Properties
+#### Properties
 
-#### Intermolecular Forces
+##### Intermolecular Forces
 
 The only type of intermolecular force for alkynes is **dispersion forces**.
 
-#### Polarity
+##### Polarity
 
 Similar to alkane, alkynes are **non-polar** molecules.
 
-#### Boiling and Melting Points
+##### Boiling and Melting Points
 
 Alkynes have relatively **low boiling and melting points**.
 
@@ -321,19 +323,19 @@ Alkynes have relatively **low boiling and melting points**.
 - The electrons in the triple bond are more easily polarised to **induce dipole-dipole forces**.
 - Alkynes have less C–H bonds which means alkyne molecules can **pack closer together**.
 
-#### Solubility
+##### Solubility
 
 **Alkynes are not soluble in water** as molecules are non-polar.
 
-### Chemical Reactions
+#### Chemical Reactions
 
-#### Combustion
+##### Combustion
 
 Alkynes can be **used as fuels** to undergo combustion reaction.
 
 $$\text{Alkyne}+\text{O}_2\to \text{CO}_2+\text{H}_2\text{O}$$
 
-#### Hydrogenation (Addition of Hydrogen)
+##### Hydrogenation (Addition of Hydrogen)
 
 Hydrogenation of an alkyne **produces an alkene which subsequently forms an alkane**.
 
@@ -341,7 +343,7 @@ Similar to the hydrogenation of alkenes, it requires a **transitional metal cata
 
 $$\text{Alkyne}+\text{H}_2\xrightarrow{\text{Metal Catalyst}} \text{Alkene}$$
 
-#### Halogenation (Addition of Halogens/Hydrogen Halides)
+##### Halogenation (Addition of Halogens/Hydrogen Halides)
 
 Similar to the halogenation of alkenes, halogenation of alkynes **produces an haloalkene which subsequently forms an haloalkane**.
 
@@ -349,21 +351,21 @@ The number of halogens added to the molecule depends on the type of reaction.
 
 $$\text{Alkyne}+\text{Halogen}\to\text{(di-)Haloalkene}$$
 
-![[halogeneration of alkyne + br2.png]]
+![halogeneration-of-alkyne-+-br2](../images/halogeneration-of-alkyne-+-br2.png)
 
 $$\text{Alkyne}+\text{Hydrogen Halide}\to\text{Haloalkene}$$
 
-![[halogeneration of alkyne + hbr.png]]
+![halogeneration-of-alkyne-+-hbr](../images/halogeneration-of-alkyne-+-hbr.png)
 
-## Halogenerated Hydrocarbons
+### Halogenerated Hydrocarbons
 
-### Structure
+#### Structure
 
-![[halogenerated hydrocarbons.png]]
+![halogenerated-hydrocarbons](../images/halogenerated-hydrocarbons.png)
 
 Halogenerated hydrocarbons are hydrocarbons which **contain halogen groups** in the molecules.
 
-### Nomenclature
+#### Nomenclature
 
 Halogenerated hydrocarbons are named with prefixes that indicate the type of halogens attached to the hydrocarbon.
 
@@ -383,33 +385,33 @@ The position of the halogen is specified with **a number before the name**.
 - **2-fluoro-3-iodo**butane
 - **1,1-dichloro**pentane
 
-### Properties
+#### Properties
 
-#### Intermolecular Forces
+##### Intermolecular Forces
 
 The dominated intermolecular force of halogenerated hydrocarbons is **dispersion forces**.
 
-#### Polarity
+##### Polarity
 
 Haloalkane are **slightly polar** molecules, the presence of carbon-halogen bonds enact dipole dipole attraction between molecules.
 
 However, **the polarity of halogenerated hydrocarbons is still relatively low** because the **non-polar hydrocarbon parts dominate**.
 
-#### Boiling and Melting Points
+##### Boiling and Melting Points
 
 Halogenerated hydrocarbons have relatively **low boiling and melting points**.
 
 However, the stronger dipole-dipole attraction of the carbon-halogen bonds give halogenerated hydrocarbons a **higher boiling and melting point than corresponding alkane**.
 
-#### Solubility
+##### Solubility
 
 Halogenerated hydrocarbons has a halogen-carbon bond. Therefore **haloalkanes are slightly more soluble than hydrocarbons in water**.
 
 **The solubility is relatively low** because the overall influence of dipole-dipole interaction is small.
 
-### Chemical Reactions
+#### Chemical Reactions
 
-#### Substitution
+##### Substitution
 
 As said in the substitution of alkanes, if a halogen is supplied in excess, **alkane molecules will become completely substituted**.
 
@@ -425,18 +427,18 @@ $$\text{Haloalkane}+\text{H}_2\text{O}\xrightarrow{\text{catalyst}}\text{Alcohol
 
 Substitution of halogenated alkane **only produce one organic product**, the position of alcohol depends on position of the halogen atom
 
-## Handling and Disposing Organic Substances
+### Handling and Disposing Organic Substances
 
-## Implications of Obtaining Hydrocarbons
+### Implications of Obtaining Hydrocarbons
 
-### Environmental Implications
+#### Environmental Implications
 
 - **Extraction of crude oil** from oil reservoirs creates large cavities underground which may cause **overlying geological structures to collapse**.
 - **Oil spills** impose significant **damage to the aquatic ecosystems**. Oils spills are also **difficult to clean up**.
 - **Combustion of hydrocarbons emits greenhouse gases carbon dioxide** and might causes **global warming** and **ocean acidification**.
 - Materials such as polymers (**plastics**) produced by the chemical industry using components of hydrocarbons are **non-biodegradable** and causes **landfill problem**.
 
-### Sociocultural Implications
+#### Sociocultural Implications
 
 **Advantages**:
 - Hydrocarbons are burnt to **produce electricity** to supply the electricity to the society.
@@ -445,7 +447,7 @@ Substitution of halogenated alkane **only produce one organic product**, the pos
 **Disadvantages**:
 - Extraction and burning of hydrocarbons **releases small particles in the atmosphere**, which cause **respiratory illness** such as lung cancer and asthma to people.
 
-### Economic Implications
+#### Economic Implications
 
 **Advantages**:
 - Significant **economic growth for countries** that have access to oil reservoirs as crude oil forms a major party of their **export of hydrocarbons**.
@@ -453,11 +455,11 @@ Substitution of halogenated alkane **only produce one organic product**, the pos
 **Disadvantages**:
 - The acid rain causes by burning of hydrocarbons causes **damage to crops**, **loss of commercial animals** and **increased corrosion of building**.
 
-# Alcohols
+## Alcohols
 
-## Structure
+### Structure
 
-![[images/alcohol.png]]
+![alcohol](../images/alcohol.png)
 
 Alcohols contain a **hydroxyl functional group** (OH) bonded to a carbon atom.
 
@@ -468,9 +470,9 @@ There are three types of alcohols:
 
 They are differ by **the numbers of carbon that the functional group is neighboured to**.
 
-![[three types of alcohols.png]]
+![three-types-of-alcohols](../images/three-types-of-alcohols.png)
 
-## Nomenclature
+### Nomenclature
 
 Alcohol names end with the **suffix '-ol'**.
 
@@ -481,15 +483,15 @@ The position of the hydroxyl functional group is specified with **a number withi
 - propan**-2-ol**
 - 2-methylbutan**-2-ol**
 
-## Properties
+### Properties
 
-### Intermolecular Forces
+#### Intermolecular Forces
 
 The presence of –OH allows the **formation of dipole-dipole forces and hydrogen bonds**, both of which are **stronger intermolecular forces** than dispersion forces.
 
-![[alcohol hydrogen bond.png]]
+![alcohol-hydrogen-bond](../images/alcohol-hydrogen-bond.png)
 
-### Polarity
+#### Polarity
 
 The **alcohol functional group (–OH) is polar** due to the high electronegativity of oxygen.
 
@@ -499,7 +501,7 @@ The overall polarity depends on the size of the non-polar hydrocarbon group.
 - **Larger alcohol molecules tend to be more non-polar** because the hydrocarbon region dominates the small alcohol functional group.
 - **Small alcohol molecules tend to be more polar** because the polar alcohol functional group contributes more to the overall polarity of the molecule.
 
-### Boiling and Melting Points
+#### Boiling and Melting Points
 
 Alcohols have **higher boiling and melting points than hydrocarbons** with the same number of carbon atoms.
 
@@ -507,9 +509,9 @@ Alcohols have **higher boiling and melting points than hydrocarbons** with the s
 
 **Straight-chained alcohol molecules have higher boiling and melting points** as they are able to form greater dispersion forces due to a greater surface area between molecules.
 
-![[alcohol bp.png]]
+![alcohol-bp](../images/alcohol-bp.png)
 
-### Solubility
+#### Solubility
 
 Alcohols generally have **high solubility in water**.
 
@@ -519,11 +521,11 @@ Alcohols can form **dipole-dipole forces** and **hydrogen bonds**. The –OH gro
 
 Similar to the polarity, **the solubility of alcohol in water decreases with increasing size** (number of carbon atoms).
 
-## Chemical Reactions
+### Chemical Reactions
 
-### Production of Alcohols
+#### Production of Alcohols
 
-#### Hydration of Alkenes
+##### Hydration of Alkenes
 
 Hydration is the **addition reaction between an alkene and water**. An alkene can react with water in the presence of an acid catalyst to form an alcohol.
 
@@ -533,9 +535,9 @@ $$\text{Alkene}+\text{H}_2\text{O}\xrightarrow{\text{dil. acid}}\text{Alcohol}$$
 
 The specific type of alcohol product can be selected by undergoing **fractional distillation**.
 
-![[hydration of alkenes.png]]
+![hydration-of-alkenes](../images/hydration-of-alkenes.png)
 
-#### Substitution of Haloalkanes
+##### Substitution of Haloalkanes
 
 **Reaction between a halogenated alkane with hydroxide ions produces an alcohol** as the halogen is substituted (replaced) by the hydroxide ion.
 
@@ -547,7 +549,7 @@ $$\text{Haloalkane}+\text{H}_2\text{O}\xrightarrow{\text{catalyst}}\text{Alcohol
 
 Substitution of halogenated alkane **only produce one organic product**, the position of alcohol depends on position of the halogen atom.
 
-#### Fermentation of Glucose
+##### Fermentation of Glucose
 
 **Fermentation of glucose** by yeast under specific reaction conditions produces ethanol and carbon dioxide.
 
@@ -562,7 +564,7 @@ $$\text{C}_6\text{H}_{12}\text{O}_6\xrightarrow{\text{yeast}}2\text{CO}_2+2\text
 | Dilute solution alcohol (**alcohol content < 15%**) | If starting carbohydrate concentration is too high, large amount of alcohol is produced which damages and kills yeast cells.                                                                                                                                                        |
 | **Temperature 30-40ºC**                             | This is an optimal temperature range for yeast’s enzymatic activity. <br>If the temperature is below the range, the reaction rate will become too slow.<br>If the temperature is above the range, yeast cells will die and the enzymes required for fermentation will be denatured. |
 
-### Combustion
+#### Combustion
 
 **All alcohols undergo combustion with oxygen** to produce carbon dioxide and water (complete combustion).
 
@@ -570,7 +572,7 @@ $$\text{Alcohol}+\text{O}_2\to\text{CO}_2+\text{H}_2\text{O}$$
 
 Combustion of alcohol is **exothermic**.
 
-### Dehydration
+#### Dehydration
 
 In the presence of concentrated acid, **an alcohol functional group can be dehydrated to form an alkene and water**.
 
@@ -580,9 +582,9 @@ $$\text{Alcohol}\xrightarrow[\text{heat}]{\text{conc. }\text{H}_2\text{SO}_4}\te
 
 **Zaitsev's rule**: the major product of the dehydration reaction will be one where the resultant double carbon-carbon bond is formed **in a more substituted position**.
 
-![[dehydration of alcohol.png]]
+![dehydration-of-alcohol](../images/dehydration-of-alcohol.png)
 
-### Substitution
+#### Substitution
 
 When halogen halide is supplied in large concentration, the hydroxyl functional group can be directly substituted by a halogen.
 
@@ -594,54 +596,54 @@ This method of forming a haloalkane is slightly different to halogenation of an 
 - In the reaction between an alkene and a hydrogen halide, **the halogen is selectively connected to the carbon with more alkyl substituents**.
 - The position of the halogen in a haloalkane (produced from substitution with alcohol) will **always depend on the position of its former alcohol**.
 
-### Oxidation
+#### Oxidation
 
 Oxidation states (oxidation number) of carbon atoms in organic molecules is determined by the following rules:   
 - Every bond between C and another C does not alter the oxidation state.
 - Every bond between C and H will decrease the oxidation state by 1.
 - Every bond between C and a more electronegative element will increase the oxidation state by 1.
 
-![[oxidation number of alcohols.png]]
+![oxidation-number-of-alcohols](../images/oxidation-number-of-alcohols.png)
 
-#### Oxidising Agents
+##### Oxidising Agents
 
 Strong oxidising agents used in the oxidation reaction of alcohols can be:
 - **Acidified sodium dichromate** $\text{H}^+/{\text{Cr}_2\text{O}_7}^{2-}$
-- **Acidified potassium permanganate** $\text{H}^+/{\text{KMnO}_4}^-$
+- **Acidified potassium permanganate** $\text{H}^+/{\text{MnO}_4}^-$
 
 The colour change of the oxidant indicate whether the reaction is complete or not. The colour change is:
 - $\text{H}^+/{\text{Cr}_2\text{O}_7}^{2-}$: **Yellow to Green**
-- $\text{H}^+/{\text{KMnO}_4}^-$: **Purple to Colourless**
+- $\text{H}^+/{\text{MnO}_4}^-$: **Purple to Colourless**
 
-#### Primary Alcohols
+##### Primary Alcohols
 
 Primary alcohol is **first oxidised to form aldehyde**, then **further oxidised to carboxylic acid**.
 
 $$\text{Primary Alcohol}\xrightarrow{\text{oxidant}}\text{Aldehyde}\xrightarrow[\text{Heat, Long reaction time}]{\text{oxidant}}\text{Carboxylic Acid}$$
 
-#### Secondary Alcohols
+##### Secondary Alcohols
 
 **Secondary alcohol is oxidised to form ketone**.
 
 $$\text{Secondary Alcohol}\xrightarrow{\text{oxidant}}\text{Ketone}$$
 
-#### Tertiary Alcohols
+##### Tertiary Alcohols
 
 **Tertiary alcohol generally doesn’t undergo oxidation**.
 
-### Esterification
+#### Esterification
 
 The esterification reaction between carboxylic acids and alcohols **produces esters**.
 
 $$\text{Carboxylic Acid}+\text{Alcohol}\xrightarrow[\text{heat}]{\text{conc. }\text{H}_2\text{SO}_4}\text{Ester}+\text{H}_2\text{O}$$
 
-## Enthalpy of Combustion
+### Enthalpy of Combustion
 
 Enthalpy of combustion $\Delta H$ of an alcohol is **the amount of heat energy it releases per mole or gram of alcohol consumed**.
 
 **The enthalpy of combustion increases with alcohol size** as the bond energy (dispersion force) is greater.
 
-### Experimental Methods
+#### Experimental Methods
 
 To determine the enthalpy of combustion of an alcohol, a first-hand investigation can be conducted.
 
@@ -677,9 +679,9 @@ To determine the enthalpy of combustion of an alcohol, a first-hand investigatio
 - **Prevent incomplete combustion**
 	- **Using another combustion apparatus** as it is difficult to increase oxygen to fuel supply with a spirit burner.
 
-## Alcohol as Fuels
+### Alcohol as Fuels
 
-### Fossil Fuels
+#### Fossil Fuels
 
 A **fossil fuel** is a fuel which has been **formed through natural processes** such as anaerobic decomposition of dead organisms.
 
@@ -692,7 +694,7 @@ The fossil fuel can be reformed but it is often described as being a **non-renew
 **Disadvantages**:
 - Combustion of fossil fuels causes a great **increases in overall carbon dioxide content**, which causes **climate change** and worsen the **global warming**.
 
-### Biofuels
+#### Biofuels
 
 Biofuels are **derived from biomass**, which is material that has been derived from living organisms. This could either be animal or plant derived.
 
@@ -718,7 +720,7 @@ $$\text{C}_6\text{H}_{12}\text{O}_6\xrightarrow{\text{yeast}}2\text{CO}_2+2\text
 - Production of biofuels might **impact the biodiversity** as it requires food crops to be grown.
 - **Implementing ethanol as a main source of fuel is difficult** because most vehicles and machines are incompatible with 100% ethanol.
 
-#### Carbon Neutral of Bioethanol
+##### Carbon Neutral of Bioethanol
 
 Considering the following three stages of producing and combusting bioethanol:
 1. **Photosynthesis**: $$6\text{CO}_2+6\text{H}_2\text{O}\to\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2$$
@@ -729,21 +731,21 @@ The total carbon dioxide emitted during the fermentation and combustion process 
 
 Hence, the use of bioethanol is described as **carbon neutral**.
 
-# Aldehydes and Ketones
+## Aldehydes and Ketones
 
-## Structure
+### Structure
 
-![[images/aldehydes.png]]
+![aldehydes](../images/aldehydes.png)
 
 Aldehydes contain a **carbonyl functional group** (C=O) **bonded to a terminal carbon atom** and a hydrogen atom.
 
-![[images/ketones.png]]
+![ketones](../images/ketones.png)
 
 Ketones contain a **carbonyl functional group** (C=O) **bonded to two carbon atoms within the parent chain**.
 
 The carbonyl functional group occupies a **trigonal planar shape**, with an **angle of 120º** between bonds.
 
-## Nomenclature
+### Nomenclature
 
 Aldehyde names end with the **suffix '-al'**.
 
@@ -763,17 +765,17 @@ The position of the carbonyl group is specified with **a number within the name*
 - pentan**-2-one**
 - pentan**-3-one**
 
-## Properties
+### Properties
 
-### Intermolecular Forces
+#### Intermolecular Forces
 
 Smaller aldehydes and ketones can form **dipole-dipole forces** on top of dispersion forces.
 
-### Polarity
+#### Polarity
 
 Aldehydes and ketones are **polar molecules**, primarily due to the **presence of an electronegative oxygen atom** in their functional groups.
 
-### Boiling and Melting Points
+#### Boiling and Melting Points
 
 Aldehydes and ketones generally have **higher boiling and melting points than hydrocarbons of similar molecular mass** as they have stronger intermolecular forces (**polar dipolle-dipole attraction**).
 
@@ -781,25 +783,25 @@ Aldehydes and ketones generally have **lower boiling and melting points compared
 
 **Boiling and melting points of aldehydes and ketones increase with molecular mass** due to stronger dispersion forces.
 
-### Solubility
+#### Solubility
 
 Smaller aldehyde and ketone molecules are **soluble in water**.
 
 **The solubility of aldehydes and ketones in water decreases as the length of non-polar carbon chain increases** due to the decrease in the polarity.
 
-## Chemical Reactions
+### Chemical Reactions
 
-### Oxidation
+#### Oxidation
 
 **Oxidation of an aldehyde** using a strong oxidising agent **produces a carboxylic acid**.
 
 $$\text{Aldehyde}\xrightarrow[\text{Heat, Long reaction time}]{\text{oxidant}}\text{Carboxylic Acid}$$
 
-# Carboxylic Acids
+## Carboxylic Acids
 
-## Structure
+### Structure
 
-![[carboxylic acid.png]]
+![carboxylic-acid](../images/carboxylic-acid.png)
 
 Carboxylic acids contain a **carboxyl functional group** (-COOH) bonded to a carbon atom.
 
@@ -809,7 +811,7 @@ The –OH in a carboxylic acid functional group **should not be considered as al
 
 The carboxylic functional group occupies a **trigonal planar shape**, with an **angle of 120º** between bonds.
 
-## Nomenclature
+### Nomenclature
 
 Carboxylic acid names end with the suffix **'-oic acid'**.
 
@@ -820,43 +822,43 @@ The carboxyl group is always at the end of the parent chain, so **no position nu
 - ethan**oic acid**
 - propan**oic acid**
 
-## Properties
+### Properties
 
-### Intermolecular Forces
+#### Intermolecular Forces
 
 Carboxylic acids can form **hydrogen bonds**. The electron lone pair can either be from -OH or C=O.
 
 Hydrogen boding between molecules of carboxylic acids **creates a dimer**.
 
-![[carboxylic hydrogen bond CO.png]]
+![carboxylic-hydrogen-bond-CO](../images/carboxylic-hydrogen-bond-CO.png)
 
 Hydrogen bonding between molecules of ethanol **does not produce dimers**.
 
-![[carboxylic hydrogen bond OH.png]]
+![carboxylic-hydrogen-bond-OH](../images/carboxylic-hydrogen-bond-OH.png)
 
-### Polarity
+#### Polarity
 
 Carboxylic acids are **polar compounds**.
 
 They are generally considered **more polar than aldehydes and ketones** due to the **presence of an additional electronegative oxygen atom**.
 
-### Boiling and Melting Points
+#### Boiling and Melting Points
 
 Carboxylic acids have **much higher boiling and melting points than other hydrocarbons (except amides)** of similar molecular weight due to the **high intermolecular force** from the **hydrogen bond**.
 
 **Larger carboxylic acids have higher boiling and melting points** as when the size of a carboxylic acid increases, the magnitude of dispersion force also increases.
 
-### Solubility
+#### Solubility
 
 Small carboxylic acids are **soluble in water**.
 
 Carboxylic acids are more soluble in water than alcohol, aldehydes and ketones of similar molecular weight because they can **form more hydrogen bonds**.
 
-![[carboxylic acid more hydrogen bond.png]]
+![carboxylic-acid-more-hydrogen-bond](../images/carboxylic-acid-more-hydrogen-bond.png)
 
 **The solubility in water decrease as the size of a carboxylic increase** due to the decrease in the polarity.
 
-### Acidity
+#### Acidity
 
 Carboxylic acids are organic **monoprotic weak acids**.
 
@@ -864,11 +866,11 @@ Carboxylic acids are acidic because the **O–H bond is polarised** and **weak d
 
 **The strength of carboxylic acids increases when carboxylic acids are halogenated**.
 
-![[carboxylic acid strength.png]]
+![carboxylic-acid-strength](../images/carboxylic-acid-strength.png)
 
-## Chemical Reactions
+### Chemical Reactions
 
-### Acid/Base Reactions
+#### Acid/Base Reactions
 
 **Carboxylic acids are weak acids** that have similar properties of common acids.
 
@@ -888,33 +890,33 @@ $$\text{Carboxylic Acid} + \text{Metal} \rightarrow \text{Salt} + \text{H}_2$$
 
 $$\text{Carboxylic Acid} + \text{Carbonate} \rightarrow \text{Salt} + \text{H}_2\text{O} + \text{CO}_2$$
 
-### Esterification
+#### Esterification
 
 The esterification reaction between carboxylic acids and alcohols **produces esters**.
 
 $$\text{Carboxylic Acid}+\text{Alcohol}\xrightarrow[\text{heat}]{\text{conc. }\text{H}_2\text{SO}_4}\text{Ester}+\text{H}_2\text{O}$$
 
-### Amidation
+#### Amidation
 
 The amidation reaction between carboxylic acids and ammonias **produces amides**.
 
 $$\text{Carboxylic Acid}+\text{NH}_3\to\text{Primary Amide}+\text{H}_2\text{O}$$
 
-# Amines
+## Amines
 
-## Structure
+### Structure
 
-![[images/amines.png]]
+![amines](../images/amines.png)
 
 Amines contain a **nitrogen atom** bonded to one, two, or three carbon atoms or hydrogen atoms.
 
 Depending on the **number of carbon atom(s) the nitrogen is connected to**, an amine is further classified as **primary** (one carbon atom), **secondary** (two carbon atoms) and **tertiary** (three carbon atoms).
 
-![[three types of amines.png]]
+![three-types-of-amines](../images/three-types-of-amines.png)
 
 Nitrogen atom in an amine occupies a **trigonal pyramidal shape** as the negative electron lone pair repels the three adjacent covalent bonds
 
-## Nomenclature
+### Nomenclature
 
 Amine names end with the suffix **'-amine'**.
 
@@ -923,23 +925,23 @@ The position of the nitrogen atom is specified with **a number within the name**
 **If the nitrogen atom is bonded to alkyl groups**, they are named as substituents with the **prefix 'N-'** before the alkyl group name.
 
 **Examples**:
-![[naming of amines.png]]
+![naming-of-amines](../images/naming-of-amines.png)
 
-## Properties
+### Properties
 
-### Intermolecular Forces
+#### Intermolecular Forces
 
 Primary and secondary amines can engage in **hydrogen bondings**.
 
-![[amines hydrogen bonds.png]]
+![amines-hydrogen-bonds](../images/amines-hydrogen-bonds.png)
 
 **Tertiary amines do not contain hydrogens that can engage in hydrogen bonding**.
 
-### Polarity
+#### Polarity
 
 Amines are **polar molecules** and have **permanent dipoles** due to the **presence of nitrogen** in their functional groups.
 
-### Boiling and Melting Points
+#### Boiling and Melting Points
 
 Amines have **higher boiling and melting points than hydrocarbons** of similar molecular weight.
 
@@ -949,7 +951,7 @@ Amines generally have **lower boiling and melting points than alcohols** of simi
 
 **Larger amines have higher boiling and melting points** as when the size of a amine increases, the magnitude of dispersion force also increases.
 
-### Solubility
+#### Solubility
 
 Small amines are generally **soluble in water**.
 
@@ -959,15 +961,15 @@ Primary amines are **very soluble in water**, with similar in solubility compare
 
 **The solubility in water decrease as the size of a amine increase** due to the decrease in the polarity.
 
-### Basicity
+#### Basicity
 
 **Amines are organic weak bases**.
 
 The nitrogen atom’s electron lone pair allows amines to accept protons from water or an acid to form its positively charged conjugate acid.
 
-## Chemical Reactions
+### Chemical Reactions
 
-### Acid/Base Reactions
+#### Acid/Base Reactions
 
 **Amines are weak bases** that have similar properties of common bases.
 
@@ -979,11 +981,11 @@ $$\text{Amines}+\text{H}_2\text{O}\rightleftharpoons {\text{OH}}^- +\text{Conjug
 
 $$\text{Amine}+\text{Acid}\to \text{Salt}+\text{H}_2\text{O}$$
 
-# Amides
+## Amides
 
-## Structure
+### Structure
 
-![[images/amides.png]]
+![amides](../images/amides.png)
 
 Amides contain a **carbonyl functional group** (C=O) **bonded to a nitrogen atom**.
 
@@ -991,11 +993,11 @@ The nitrogen atom **can be bonded with hydrogen atoms or alkyl groups**.
 
 Depending on the **number of carbon atom(s) the nitrogen is connected to**, an amide is further classified as **primary** (one carbon atom), **secondary** (two carbon atoms) and **tertiary** (three carbon atoms).
 
-![[three types of amides.png]]
+![three-types-of-amides](../images/three-types-of-amides.png)
 
 The nitrogen atom in an amide occupies a **trigonal pyramidal shape** as its electron lone pair also repels adjacent covalent bonds away.
 
-## Nomenclature
+### Nomenclature
 
 Amide names end with the suffix **'-amide'**.
 
@@ -1004,23 +1006,23 @@ The amide group is always at the end of the parent chain, so **no position numbe
 **If the nitrogen atom is bonded to alkyl groups**, they are named as substituents with the **prefix 'N-'** before the alkyl group name.
 
 **Examples**:
-![[naming of amides.png]]
+![naming-of-amides](../images/naming-of-amides.png)
 
-## Properties
+### Properties
 
-### Intermolecular Forces
+#### Intermolecular Forces
 
 Primary and secondary amides can engage in **hydrogen bondings**.
 
-![[amides hydrogen bonds.png]]
+![amides-hydrogen-bonds](../images/amides-hydrogen-bonds.png)
 
 **Tertiary amides do not contain hydrogens that can engage in hydrogen bonding**.
 
-### Polarity
+#### Polarity
 
 Amides are **polar molecules** and have **permanent dipoles** due to the **presence of nitrogen** in their functional groups.
 
-### Boiling and Melting Points
+#### Boiling and Melting Points
 
 Amides have the **highest boiling and melting points** compared to every other functional group with similar molecular weights.
 
@@ -1030,35 +1032,35 @@ Primary amides have **higher boiling point than corresponding carboxylic acids**
 
 **Larger amides have higher boiling and melting points** as when the size of a amide increases, the magnitude of dispersion force also increases.
 
-### Solubility
+#### Solubility
 
 Small amides are generally **soluble in water** as all types of amides can form hydrogen bonds with water.
 
 **The solubility in water decrease as the size of a amide increase** due to the decrease in the polarity.
 
-### Acidity and Basicity
+#### Acidity and Basicity
 
 **Amides are not considered as organic bases** and **do not produce basic solutions** when dissolved in water
 
 **Amides are too weakly basic** for protonation to occur to any extent in water solution due to the **existence of a more electronegative oxygen atom** in the carbonyl functional group.
 
-## Chemical Reactions
+### Chemical Reactions
 
 **Amides are generally unreactive** and only participate in very few reactions.
 
-# Esters
+## Esters
 
-## Structure
+### Structure
 
-![[images/esters.png]]
+![esters](../images/esters.png)
 
 Esters contain a **carbonyl functional group** (C=O) **bonded to an alkyl group and an oxygen atom**, which is bonded to **another alkyl group**.
 
 Esters are the **combination of carboxylic acids and alcohols**.
 
-![[producing ester.png]]
+![producing-ester](../images/producing-ester.png)
 
-## Nomenclature
+### Nomenclature
 
 Ester names have **two parts**
 1. The **alkyl group** bonded to the oxygen atom (R')
@@ -1071,19 +1073,19 @@ The name of ester is a **combination of the alkyl group and the parent chain**, 
 - **butyl** butan**oate**
 - **ethyl** methan**oate**
 
-## Properties
+### Properties
 
-### Intermolecular Forces
+#### Intermolecular Forces
 
 Esters can engage in **dipole-dipole attractions**.
 
 **Esters cannot form hydrogen bonds within themselves** due to the lack of a hydrogen.
 
-### Polarity
+#### Polarity
 
 Esters are polar molecules with **permanent dipoles** due to the **presence of electronegative oxygen atoms**.
 
-### Boiling and Melting Points
+#### Boiling and Melting Points
 
 Esters have **higher boiling and melting points than non-polar hydrocarbons**.
 
@@ -1091,13 +1093,13 @@ Esters have **lower boiling and melting points than alcohols and carboxylic acid
 
 **Larger esters have higher boiling and melting points** as when the size of a ester increases, the magnitude of dispersion force also increases.
 
-### Solubility
+#### Solubility
 
 Esters are **soluble in water** as they can accept hydrogen bonds from water molecules.
 
 **The solubility in water decrease as the size of a ester increase** due to the decrease in the polarity.
 
-## Producing Esters
+### Producing Esters
 
 Esters are formed through **condensation reactions** between a carboxylic acid and an alcohol. This is called **esterification**.
 
@@ -1105,14 +1107,14 @@ Esters are formed through **condensation reactions** between a carboxylic acid a
 
 $$\text{Carboxylic Acid}+\text{Alcohol}\xrightarrow[\text{heat}]{\text{conc. }\text{H}_2\text{SO}_4}\text{Ester}+\text{H}_2\text{O}$$
 
-![[images/esterification.png]]
+![esterification](../images/esterification.png)
 
 Esterification is:
 - **slow**
 - **reversible** 
 - **exothermic** because more energy is released in the formation of bonds in the ester and water molecule than the energy absorbed to break bonds.
 
-### Safety Assessment
+#### Safety Assessment
 
 **Alcohols are flammable**, so do not use open flames. A heating mantle should be used instead of a Bunsen burner.
 
@@ -1120,7 +1122,7 @@ Esterification is:
 
 **Concentrated sulphuric acid is corrosive**, so only small quantities should be used, and safety glasses must be worn.
 
-### Esterification
+#### Esterification
 
 Esterification is conducted under **heat with reflux**, a process of **condensing gaseous products back into liquid state**, allowing them to **return to the reaction mixture**.
 
@@ -1137,7 +1139,7 @@ Concentrated sulphuric acids $\text{H}_2\text{SO}_4$ is required as a catalyst.
 
 **Boiling chips** are commonly used to **avoid superheating** and **achieve safe practice** in school laboratories.
 
-### Isolation
+#### Isolation
 
 The ester produced from the esterification will be in an equilibrium **mixture** with:
 - unreacted **alcohols** (some are soluble in water while some are not)
@@ -1163,7 +1165,7 @@ Isolation is processes that **isolating the esters in the organic layer**.
 
 The aqueous layer can be discarded by opening the stopcock of the separating funnel, **leaving behind the organic layer**.
 
-### Purification
+#### Purification
 
 After the ester-containing organic layer is separated from the aqueous layer, **purification** can be carried out to **further remove unreacted alcohol and carboxylic acid** in the organic layer.
 
@@ -1173,11 +1175,11 @@ Temperature of the mixture is raised above the ester’s boiling to **allow for 
 
 Gaseous ester is returned to liquid state as it goes through a **condenser**. The liquid ester is collected as the distillate.
 
-# Soaps and Detergents
+## Soaps and Detergents
 
-## Soaps
+### Soaps
 
-### Saponification
+#### Saponification
 
 **Saponification** (**production of soaps**) is the **hydrolysis** of **triglycerides** (fats) using a **strong base** such as $\text{NaOH}$.
 
@@ -1185,7 +1187,7 @@ The presence of a **strong base deprotonates fatty acid molecules** to form thei
 
 **The salt in saponification reaction is soap**.
 
-![[images/saponification.png]]
+![saponification](../images/saponification.png)
 
 **Fatty Acids**:
 - Fatty acids are **organic acids** with a **carboxylic acid functional group** and a with long hydrocarbon chain.
@@ -1197,23 +1199,23 @@ The presence of a **strong base deprotonates fatty acid molecules** to form thei
 - Glycerol is **soluble in water** as hydroxyl groups are polar and therefore, can form dipole-dipole forces as well as hydrogen bonds with water.
 
 **Triglycerides**:
-- Triglycerides are large organic molecules that **consist of three fatty acid molecules and a glycerol molecule**. ![[images/triglycerides.png]]
-- Triglycerides are formed from the **esterification between glycerol and fatty acids**.![[making triglycerides.png]]
+- Triglycerides are large organic molecules that **consist of three fatty acid molecules and a glycerol molecule**. ![triglycerides](../images/triglycerides.png)
+- Triglycerides are formed from the **esterification between glycerol and fatty acids**.![making-triglycerides](../images/making-triglycerides.png)
 - Synthesis of triglyceride from fatty acids and glycerol is **reversible**.
 
 Water or acid-driven hydrolysis of triglycerides will **produce glycerol** (**alcohol**) and **fatty acids** but **will not form soap** as protons of fatty acids remain in the molecules in the absence of a base.
 
 The water-driven hydrolysis can be seen as the **reverse reaction of synthesis of triglyceride**.
 
-### Structures
+#### Structures
 
 Soap has a long non-polar hydrocarbon tail. As it is non-polar, it will be repelled away from polar substances like water, which makes it **hydrophobic**.
 
 The carboxylate (RCOO–) region of a soap molecule, or the ‘head’, is polar and readily dissolves in water, which makes it **hydrophilic**.
 
-![[soap structures.png]]
+![soap-structures](../images/soap-structures.png)
 
-### Properties
+#### Properties
 
 Chain length of fatty acids determine the final properties of soap. As chain length increases, it becomes less polar and therefore less soluble in water.
 
@@ -1223,7 +1225,7 @@ Base used during triglyceride hydrolysis can affect soap properties:
 - Sodium-based soaps tend to be harder and less soluble in water.
 - Potassium-based soaps tend to be softer and more soluble in water.
 
-### Soap Actions
+#### Soap Actions
 
 **Soaps act as surfactants** which decrease the surface tension of water. The structure of soaps enable them to **emulsify oils** so that they can be **suspended in water**.
 
@@ -1235,15 +1237,15 @@ When a grease particle is completely surrounded by soap molecules, **a micelle i
 
 In a micelle, carboxylate heads face away from the grease particle and help suspend the greasy particle in water to **form an emulsion** where **micelles cannot join together due to the repulsion between heads**.
 
-![[images/action-of-soaps.png]]
+![action-of-soaps](../images/action-of-soaps.png)
 
-### Disadvantages
+#### Disadvantages
 
 **Soaps cannot be used in acidic solutions** as protonation of carboxylate head reduces its hydrophilicity and ability to act as an emulsifier.
 
 **Soaps cannot be used in hard water** (high concentration of calcium and magnesium ions) as they precipitate with the metal ions to form **scum**.
 
-## Detergents
+### Detergents
 
 Detergents are **synthetic compounds** that mimic the action of soaps. 
 
@@ -1255,11 +1257,11 @@ The structures of detergents are similar to that of soaps in that they can be di
 
 The **chemical structure of hydrophilic heads** determines the **type of detergent**.
 
-### Anionic Detergents
+#### Anionic Detergents
 
 Anionic detergents are detergent molecules that contain **negatively charged heads**.
 
-![[images/anionic-detergents.png]]
+![anionic-detergents](../images/anionic-detergents.png)
 
 Anionic detergents are usually **not used for personal hygiene** as they would remove too much oil from skin and hair.
 
@@ -1267,11 +1269,11 @@ Anionic detergents are usually **not used for personal hygiene** as they would r
 - Laundry detergents
 - Dishwashing liquids
 
-### Cationic Detergents
+#### Cationic Detergents
 
 Cationic detergents are detergent molecules that contain **positively charged heads**.
 
-![[images/cationic-detergents.png]]
+![cationic-detergents](../images/cationic-detergents.png)
 
 **Uses**:
 - Plastic cleaners
@@ -1280,17 +1282,17 @@ Cationic detergents are detergent molecules that contain **positively charged he
 - Disinfectants
 - Antiseptics
 
-### Non-Ionic Detergents
+#### Non-Ionic Detergents
 
 Non-ionic detergents are detergent molecules that **do not contain an ionic charged head**. They usually contain heads that are **partially charged**.
 
-![[non-ionic detergents.png]]
+![non-ionic-detergents](../images/non-ionic-detergents.png)
 
 **Uses**:
 - Front-loading washing machines
 - Dishwashers
 
-## Soaps vs. Detergents
+### Soaps vs. Detergents
 
 **Similarities**:
 - Soaps and detergents **share similar structure** as their structures consist of a **hydrophobic tail** and a **hydrophilic head**.
@@ -1310,26 +1312,26 @@ Non-ionic detergents are detergent molecules that **do not contain an ionic char
 |**Useable in Hard Water**|No (will form scum)|Yes|
 |**Useable in Acidic Environment**|No (protonation of the head reduces its hydrophilicity)|Yes|**
 
-# Polymers
+## Polymers
 
 **Polymers** are **covalent molecular substances** composed by joining together thousands of smaller molecules, called **monomers** through a process called **polymerisation**.
 
 Polymers are named by putting 'poly' in front of the monomer's name.
 
-![[images/polymers.png]]
+![polymers](../images/polymers.png)
 
-## Addition Polymers
+### Addition Polymers
 
 Addition polymers contain monomers that contains **reactive carbon double bonds** (C=C).
 
-### Addition Polymerisation
+#### Addition Polymerisation
 
 Addition polymers are formed by the process of **addition polymerisation**, where monomers become chemically linked by **adding across the double bonds** and form
 an **additional polymer**.
 
 Polymerisation of **ethylene monomer** produces **polyethylene polymer**.
 
-![[addition polymerisation.png]]
+![addition-polymerisation](../images/addition-polymerisation.png)
 
 Addition polymers are formed from the reactions of monomers containing C=C bonds, in three steps:
 1. Initiation
@@ -1344,7 +1346,7 @@ The unpaired electron forms a new covalent bond with one of the electrons in the
 
 This **produces another radical molecule** with an **unpaired electron** that was formerly in the C=C bond.
 
-![[addition initiator.png]]
+![addition-initiator](../images/addition-initiator.png)
 
 Step 2: **Elongation**
 
@@ -1352,7 +1354,7 @@ The radical molecule formed in initiation is able to **react with another monome
 
 The free radical continues to grow by repeatedly reacting with monomers.
 
-![[images/addition-elongation.png]]
+![addition-elongation](../images/addition-elongation.png)
 
 This reaction **joins the two organic molecules** to **produce a larger molecule** that also contains an unpaired electron.
 
@@ -1364,25 +1366,25 @@ Elongation of the molecule stops when **two radical molecules meet** to form a c
 
 This **terminates the polymerisation** as the product **no longer has an unpaired electron**.
 
-![[addition termination.png]]
+![addition-termination](../images/addition-termination.png)
 
 **Sizes of Polymers**:
 - Since **termination occurs at a random time**, in a batch of polymers, the polymer molecules have different sizes.
 - **Different techniques can be used to control the average size**.
 
-### Types of Addition Polymers
+#### Types of Addition Polymers
 
-#### Low Density Polyethylene (LDPE)
+##### Low Density Polyethylene (LDPE)
 
 **Polyethylene** is produced from polymerisation of **ethylene** monomers.
 
 Low density polyethylene consists polyethylene chains with  **numerous branches**.
 
-![[addition polymerisation.png]]
+![addition-polymerisation](../images/addition-polymerisation.png)
 
 LDPE is produced under **high temperatures** and **pressures**. Under these harsh conditions, the polymer is **formed too rapidly** for the molecules to be neat and symmetrical. Hence, it usually **contains many branches**.
 
-![[branched LDPE.png]]
+![branched-LDPE](../images/branched-LDPE.png)
 
 **Properties**:
 - Branched structure of LDPE causes it to have a **lower melting point** due to the **lower dispersion forces** between polymer chains.
@@ -1392,17 +1394,17 @@ LDPE is produced under **high temperatures** and **pressures**. Under these h
 - Plastic bags and packaging
 - Wire insulation
 
-#### High Density Polyethylene (HDPE)
+##### High Density Polyethylene (HDPE)
 
 **Polyethylene** is produced from polymerisation of **ethylene** monomers.
 
 **High density polyethylene** consists of **straight, linear chains** of **polyethylene** with **minimal branching**.
 
-![[addition polymerisation.png]]
+![addition-polymerisation](../images/addition-polymerisation.png)
 
 Unlike LDPE, HDPE is produced with highly specialised transition **Ziegler-Natta catalysts** to avoid the need for high pressure. Due to the polymer being **produced under a lower pressure**, the conditions are milder and thus there are **fewer branches**.
 
-![[linear HDPE.png]]
+![linear-HDPE](../images/linear-HDPE.png)
 
 **Properties**:
 - HDPE has **higher melting points**, **harder** and is **crystalline** in structure as it is linear and can **pack closely together**.
@@ -1412,13 +1414,13 @@ Unlike LDPE, HDPE is produced with highly specialised transition **Ziegler-Natt
 - Plastic toys
 - Fuel tank for cars
 
-#### Poly(Vinyl Chloride) (PVC)
+##### Poly(Vinyl Chloride) (PVC)
 
 **Poly(vinyl chloride)** is produced from polymerisation of **vinyl chloride** monomers.
 
 Compared to ethylene, PVC has one hydrogen substituted by a chlorine.
 
-![[poly(vinyl chloride).png]]
+![poly(vinyl-chloride)](../images/poly(vinyl-chloride).png)
 
 **Properties**:
 - PVC has a **stronger intermolecular force** and **higher melting points** due to the strong electronegativity of chlorines and polarity of C-Cl bonds.
@@ -1428,13 +1430,13 @@ Compared to ethylene, PVC has one hydrogen substituted by a chlorine.
 - Window frames
 - Wire insulation
 
-#### Polystyrene (PS)
+##### Polystyrene (PS)
 
 **Polystyrene** is produced from polymerisation of **styrene** monomers.
 
 An stryene monomer is an ethene molecule with one of the hydrogen atoms replaced by a benzene ring.
 
-![[images/polystryene.png]]
+![polystryene](../images/polystryene.png)
 
 **Properties**:
 - Polystyrene has a **high melting point** as the benzene group provides for **stronger dispersion forces**.
@@ -1443,13 +1445,13 @@ An stryene monomer is an ethene molecule with one of the hydrogen atoms replaced
 - Tool handle
 - Disposable containers and packagings
 
-#### Teflon (PTFE)
+##### Teflon (PTFE)
 
 **Teflon** is produced from polymerisation of **tetrafluoroethene** monomers.
 
 Each monomer is essentially an ethene molecule with all 4 hydrogen atoms replaced by fluorine atoms.
 
-![[images/teflon.png]]
+![teflon](../images/teflon.png)
 
 **Properties**:
 - Extensive dispersion and dipole-dipole forces between chains of teflon gives rise to its **high melting point**.
@@ -1458,11 +1460,11 @@ Each monomer is essentially an ethene molecule with all 4 hydrogen atoms replace
 **Uses**:
 - Non-stick cooking pans
 
-## Condensation Polymers
+### Condensation Polymers
 
 Condensation polymers are made from various types of **monomers with different functional groups**.
 
-### Condensation Polymerisation
+#### Condensation Polymerisation
 
 Condensation polymerisation is the process in which monomers become chemically linked by **eliminating a small molecule** and form a **condensation polymer**.
 
@@ -1470,17 +1472,17 @@ Two types of condensation reactions used to produce polymers:
 - **Esterification**: reaction between **alcohol and carboxylic acid** to form an ester.
 - **Amidation**: reaction between **amine and carboxylic acid** to form an amide.
 
-#### Polyesters
+##### Polyesters
 
 **Polyesters** are condensation polymers which monomers are joined together via **esterification reaction** and forming an **ester link** (-O-CO-).
 
 **A water molecule is eliminated** every time two monomers are joined.
 
 Polyesters can be formed by:
-- Monomers that contain **both carboxylic acid and alcohol** functional groups![[polyester 1 monomer.png]]
-- Two different monomers where one is a **dialcohol** and the other is a **dicarboxylic acid**![[polyester 2 monomers.png]]
+- Monomers that contain **both carboxylic acid and alcohol** functional groups![polyester-1-monomer](../images/polyester-1-monomer.png)
+- Two different monomers where one is a **dialcohol** and the other is a **dicarboxylic acid**![polyester-2-monomers](../images/polyester-2-monomers.png)
 
-#### Polyamides
+##### Polyamides
 
 **Polyamides** are condensation polymers which monomers are joined together via **amidation reaction** and forming an **amide link** (-NH-CO-).
 
@@ -1488,15 +1490,15 @@ Polyesters can be formed by:
 
 Polyesters can be formed by:
 - Monomers that contain **both carboxylic acid and amines** functional groups.
-- Two different monomers where one is a **diamine** and the other is a **dicarboxylic acid** ![[polyamides 2 monomers.png]]
+- Two different monomers where one is a **diamine** and the other is a **dicarboxylic acid** ![polyamides-2-monomers](../images/polyamides-2-monomers.png)
 
-### Types of Condensation Polymers
+#### Types of Condensation Polymers
 
-#### Polyethylene Terephthalate (PET)
+##### Polyethylene Terephthalate (PET)
 
 **Polyethylene terephthalate** (PET) is the specific **polyester** used in **textiles**.
 
-![[images/PET.png]]
+![PET](../images/PET.png)
 
 **Properties**:
 - **High tensile strength**
@@ -1509,11 +1511,11 @@ Polyesters can be formed by:
 - Clothing, carpets and other textiles
 - Single-use plastic bottles
 
-#### Nylon
+##### Nylon
 
 **Nylon 6,6** is a common **polyamide** produced from two monomers: **hexandioic acid** and **hexan-1,6-diamine**.
 
-![[nylon 6,6.png]]
+![nylon-6,6](../images/nylon-6,6.png)
 
 **Properties**:
 - **High tensile strength** 
@@ -1527,11 +1529,11 @@ Polyesters can be formed by:
 - Seat belts
 - Ropes, nets, sleeping bags, tents
 
-# Reaction Pathways
+## Reaction Pathways
 
 A reaction pathway is **a series of reactions** that summarises the reactions required to produce a product from simple starting materials.
 
-![[reaction pathways.png]]
+![reaction-pathways](../images/reaction-pathways.png)
 
 When identifying the reaction pathways, consider:
 1. The methods of **separation** of the **desired product from isomers and other by-products** must be determined.

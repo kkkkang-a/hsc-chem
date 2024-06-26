@@ -49,11 +49,11 @@ Arrhenius also notated that the most reactive acids also had the highest electri
 
 ### Brønsted-Lowry Theory
 
-Brønsted-Lowry acids are protons donors, any compound that can donate protons regardless of its state of matter or the nature of the solvent.
+Brønsted-Lowry acids are protons donors, any compound that can donate protons regardless of its state of matter or the nature of the solvent.
 
 $$\ce{HCl(aq) + H2O(l) -> H3O+(aq) + Cl-(aq)}$$
 
-Brønsted-Lowry bases are protons acceptors, any compound that can accept protons regardless of its state of matter or nature of the solvent.
+Brønsted-Lowry bases are protons acceptors, any compound that can accept protons regardless of its state of matter or nature of the solvent.
 
 $$\ce{NH3(aq) + H2O(l) -> NH4+(aq) + OH-(aq)}$$
 
