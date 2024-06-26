@@ -231,7 +231,7 @@ The number of carbon-13 nuclei in different chemical environments are represente
 - Different types of carbons in the structure are represented by each signal.
 - Carbons can experience nuclear de-shielding when located nearby to electronegative atoms. **Close proximity to electronegative atoms** will result in signals with a **higher chemical shift**.
 
-![C13-NMR](../images/C13-NMR.png)
+![C13-NMR](../images/c13-nmr.png)
 
 ##### Proton (Hydrogen-1) NMR
 

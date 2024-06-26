@@ -91,7 +91,7 @@ Isomers are compounds which share the **same molecular formula but different str
 
 Chain isomers are molecules with the **same molecular formula**, but **different arrangement of its carbon chain**.
 
-![chain-isomers](images/chain-Isomers.png)
+![chain-isomers](../images/chain-Isomers.png)
 
 #### Position Isomers
 
@@ -99,15 +99,15 @@ Position isomers are molecules with the **same molecular formula and functional 
 
 The carbon chain needs to be long enough for the change of positions.
 
-![position-Isomers](images/position-Isomers.png)
+![position-Isomers](../images/position-Isomers.png)
 
 #### Functional Group Isomers
 
 Functional group isomers are molecules with the **same molecular formula**, but **different functional groups**.
 
 There are two common pairs of functional groups which can exhibit isomerism:
-- **Aldehydes and Ketones** ![functional-group-isomers-1](images/functional-group-isomers-1.png)
-- **Carboxylic Acids and Esters** ![functional-group-isomers-2](images/functional-group-isomers-2.png)
+- **Aldehydes and Ketones** ![functional-group-isomers-1](../images/functional-group-isomers-1.png)
+- **Carboxylic Acids and Esters** ![functional-group-isomers-2](../images/functional-group-isomers-2.png)
 
 ## Hydrocarbons
 
@@ -119,7 +119,7 @@ In hydrocarbon molecules, carbon to carbon (C–C) and carbon to hydrogen (C–H
 
 #### Structure
 
-![](images/alkane.png)
+![alkane](../images/alkane.png)
 
 Alkanes are **saturated hydrocarbons** containing only **single carbon-carbon bonds** (C-C) and **carbon-hydrogen bonds** (C-H).
 
@@ -517,7 +517,7 @@ Alcohols generally have **high solubility in water**.
 
 Alcohols can form **dipole-dipole forces** and **hydrogen bonds**. The –OH group can donate and accept hydrogen bonds to and from water molecules.
 
-![[alcohol hydrogen bond 1.png]]
+![alcohol-hydrogen-bond](../images/alcohol-hydrogen-bond.png)
 
 Similar to the polarity, **the solubility of alcohol in water decreases with increasing size** (number of carbon atoms).
 
@@ -1384,7 +1384,7 @@ Low density polyethylene consists polyethylene chains with  **numerous branches*
 
 LDPE is produced under **high temperatures** and **pressures**. Under these harsh conditions, the polymer is **formed too rapidly** for the molecules to be neat and symmetrical. Hence, it usually **contains many branches**.
 
-![branched-LDPE](../images/branched-LDPE.png)
+![branched-ldpe](../images/branched-ldpe.png)
 
 **Properties**:
 - Branched structure of LDPE causes it to have a **lower melting point** due to the **lower dispersion forces** between polymer chains.
@@ -1404,7 +1404,7 @@ LDPE is produced under **high temperatures** and **pressures**. Under these h
 
 Unlike LDPE, HDPE is produced with highly specialised transition **Ziegler-Natta catalysts** to avoid the need for high pressure. Due to the polymer being **produced under a lower pressure**, the conditions are milder and thus there are **fewer branches**.
 
-![linear-HDPE](../images/linear-HDPE.png)
+![linear-hdpe](../images/linear-hdpe.png)
 
 **Properties**:
 - HDPE has **higher melting points**, **harder** and is **crystalline** in structure as it is linear and can **pack closely together**.
@@ -1498,7 +1498,7 @@ Polyesters can be formed by:
 
 **Polyethylene terephthalate** (PET) is the specific **polyester** used in **textiles**.
 
-![PET](../images/PET.png)
+![PET](../images/pet.png)
 
 **Properties**:
 - **High tensile strength**

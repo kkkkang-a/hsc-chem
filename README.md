@@ -1,2 +1,3 @@
 - [Module 5: Equilibrium and Acid Reactions](pages/module-5.md)
 - [Module 6: Acid-Base Reactions](pages/module-6.md)
+- [Module 7: Organic Chemistry](pages/module-7.md)
